@@ -4,7 +4,7 @@ This code provides an analytical dashboard towards showing real estate informati
 https://github.com/orangecoding/fredy
 
 The code is provided as jypiter notebook (see https://jupyter.org/).
-The Data is provided as a list (Scraper_file.txt), the data is currently only copy pasted from the fredy output console, so far.
+The Data is provided as a list [Scraper_file.txt](https://github.com/kelaja/real-estate-analysis/blob/main/Scraper_file.txt), the data is currently only copy pasted from the fredy output console, so far.
 
 The features are:
 - Price / Size Scatterplot
