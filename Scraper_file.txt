@@ -1,0 +1,2801 @@
+[
+  {
+    id: 6092487,
+    price: '155.000,00 EUR Verkehrswert',
+    size: '34,00 m² Wohnfläche / / 1 Zimmer',
+    rooms: ' 1 Zimmer',
+    title: 'Erdgeschosswohnung in 70329 Stuttgart, Heimgartenstr.',
+    link: 'https://www.1a-immobilienmarkt.de/expose/6092487.html'
+  },
+  {
+    id: 5794567,
+    price: '245.000,00 EUR Kaufpreis',
+    size: '34,00 m² Wohnfläche / / 1 Zimmer',
+    rooms: ' 1 Zimmer',
+    title: 'WEITBLICK: Auf in die Zukunft! - 245.000,00 EUR Kaufpreis, ca. 34,00 m²&nbs ...',
+    link: 'https://www.1a-immobilienmarkt.de/expose/5794567.html'
+  },
+  {
+    id: 130452344,
+    price: '175.000 €',
+    size: '47 m²',
+    title: 'Kapitalanleger aufgepasst! Vermietete 2,5-Zi.-Wohnung in Nebringen',
+    link: 'https://www.immobilienscout24.de/expose/130452344',
+    address: 'Gäufelden, Böblingen (Kreis)'
+  },
+  {
+    id: 131122849,
+    price: '239.000 €',
+    size: '75 m²',
+    title: 'Tolle Lage - traumhafte Aussicht!',
+    link: 'https://www.immobilienscout24.de/expose/131122849',
+    address: 'Nagold, Calw (Kreis)'
+  },
+  {
+    id: 131122843,
+    price: '110.000 €',
+    size: '51 m²',
+    title: 'Ruhige Wohnung in sonniger Lage!',
+    link: 'https://www.immobilienscout24.de/expose/131122843',
+    address: 'Bad Liebenzell, Calw (Kreis)'
+  },
+  {
+    id: 131121818,
+    price: '195.000 €',
+    size: '33 m²',
+    title: '+++ 1-Zimmer Eigentumswohnung in zentraler Lage von Böblingen +++',
+    link: 'https://www.immobilienscout24.de/expose/131121818',
+    address: 'Böblingen, Böblingen (Kreis)'
+  },
+  {
+    id: 131121783,
+    price: '65.000 €',
+    size: '35 m²',
+    title: '+++ Vermietete 1,5-Zimmer Eigentumswohnung im EG mit Garagenstellplatz in Bad Liebenzell +++',
+    link: 'https://www.immobilienscout24.de/expose/131121783',
+    address: 'Bad Liebenzell, Calw (Kreis)'
+  },
+  {
+    id: 131121606,
+    price: '210.000 €',
+    size: '54 m²',
+    title: 'Gut geschnittene Wohnung in kleiner Einheit',
+    link: 'https://www.immobilienscout24.de/expose/131121606',
+    address: 'Unterensingen, Esslingen (Kreis)'
+  },
+  {
+    id: 131117865,
+    price: '222.500 €',
+    size: '61,57 m²',
+    title: '3-Zimmer-Wohnung in Kirchheim-Ötlingen',
+    link: 'https://www.immobilienscout24.de/expose/131117865',
+    address: 'Kirchheim unter Teck, Esslingen (Kreis)'
+  },
+  {
+    id: 131117539,
+    price: '250.000 €',
+    size: '60 m²',
+    title: 'Drei-Zimmer-Wohnung in Schorndorf',
+    link: 'https://www.immobilienscout24.de/expose/131117539',
+    address: 'Schorndorf, Rems-Murr-Kreis'
+  },
+  {
+    id: 131116651,
+    price: '195.000 €',
+    size: '61 m²',
+    title: 'Gepflegte Wohnung mit Stellplatz!',
+    link: 'https://www.immobilienscout24.de/expose/131116651',
+    address: 'Keltern, Enzkreis'
+  },
+  {
+    id: 131115419,
+    price: '185.000 €',
+    size: '36,91 m²',
+    title: 'Kleinraumwunder im Herzen von Ludwigsburg',
+    link: 'https://www.immobilienscout24.de/expose/131115419',
+    address: 'Süd, Ludwigsburg'
+  },
+  {
+    id: 131115323,
+    price: '213.000 €',
+    size: '50 m²',
+    title: '2 Zi-EG Wohnung mit Terrasse auch für Kapitalanleger',
+    link: 'https://www.immobilienscout24.de/expose/131115323',
+    address: 'Mönsheim, Enzkreis'
+  },
+  {
+    id: 131114863,
+    price: '59.000 €',
+    size: '19,5 m²',
+    title: 'Klein aber fein: Helles 1-Zimmer-Apartment in zentraler Lage mit schönem Ausblick',
+    link: 'https://www.immobilienscout24.de/expose/131114863',
+    address: 'Zell unter Aichelberg, Göppingen (Kreis)'
+  },
+  {
+    id: 131114834,
+    price: '245.000 €',
+    size: '62 m²',
+    title: 'Gepflegte Wohnung im Ortskern',
+    link: 'https://www.immobilienscout24.de/expose/131114834',
+    address: 'Unterensingen, Esslingen (Kreis)'
+  },
+  {
+    id: 131114164,
+    price: '215.000 €',
+    size: '68 m²',
+    title: 'PROVISIONSFREI Stilvoll renovierte 3-Zimmer Wohnung in zentraler Lage von Pforzheim',
+    link: 'https://www.immobilienscout24.de/expose/131114164',
+    address: 'Südweststadt, Pforzheim'
+  },
+  {
+    id: 130271163,
+    price: '199.999 €',
+    size: '44 m²',
+    title: 'Investieren Sie in die Zukunft und profitieren Sie von sicheren Mieteinnahme',
+    link: 'https://www.immobilienscout24.de/expose/130271163',
+    address: 'Herrenberg, Böblingen (Kreis)'
+  },
+  {
+    id: 131113046,
+    price: '189.000 €',
+    size: '72,45 m²',
+    title: 'Großzügige 2 Zimmer-Wohnung in Bad Wildbad zu verkaufen !',
+    link: 'https://www.immobilienscout24.de/expose/131113046',
+    address: 'Bad Wildbad, Calw (Kreis)'
+  },
+  {
+    id: 131048868,
+    price: '165.000 €',
+    size: '37 m²',
+    title: 'Preiswerte 2-Zimmer-Wohnung mit TG und Gemeinschaftsgarten zum Kauf in Esslingen-Berkheim',
+    link: 'https://www.immobilienscout24.de/expose/131048868',
+    address: 'Dürrbeundstrasse 69, Berkheim, Esslingen am Neckar'
+  },
+  {
+    id: 131111814,
+    price: '249.000 €',
+    size: '79,05 m²',
+    title: 'Pforzheim-Eutingen, schicke ca. 79 m² gr. 3-Zi-Whg., Balkon, hochwert. EBK + PKW-St.',
+    link: 'https://www.immobilienscout24.de/expose/131111814',
+    address: 'Eutingen, Pforzheim'
+  },
+  {
+    id: 131106594,
+    price: '225.000 €',
+    size: '57 m²',
+    title: 'WOHNUNG MIT 57 m² WOHNFLÄCHE',
+    link: 'https://www.immobilienscout24.de/expose/131106594',
+    address: 'Schmidener Straße xxxx, Muckensturm, Stuttgart'
+  },
+  {
+    id: 131106581,
+    price: '158.000 €',
+    size: '64,55 m²',
+    title: 'WOHNUNG MIT 64.55 m² WOHNFLÄCHE (inkl. Balkon/Terrasse)',
+    link: 'https://www.immobilienscout24.de/expose/131106581',
+    address: 'Margaretenstraße xxxx, Plüderhausen, Rems-Murr-Kreis'
+  },
+  {
+    id: 131156054,
+    price: '155.000 €',
+    size: '34 m²',
+    title: '1-Zimmer-Wohnung mit Pkw-Stellplatz',
+    link: 'https://www.immobilienscout24.de/expose/131156054',
+    address: 'Heimgartenstraße xxxx, Hedelfingen'
+  },
+  {
+    id: 131167630,
+    price: '219.000 €',
+    size: '58,5 m²',
+    title: '2-Zimmer-Wohnung in gesuchter Lage von Botnangmit herrlichem Fernblick',
+    link: 'https://www.immobilienscout24.de/expose/131167630',
+    address: 'Botnang-Nord, Stuttgart'
+  },
+  {
+    id: 131123248,
+    price: '165.000 €',
+    size: '43 m²',
+    title: 'Stilvolle 2-Zimmer-Wohnung mit Balkon in Neckarsulm',
+    link: 'https://www.immobilienscout24.de/expose/131123248',
+    address: 'Neckarsulm, Heilbronn (Kreis)'
+  },
+   {
+    id: '22wah55',
+    price: '219.000 €',
+    size: '34 m²',
+    title: '2-ZIMMER-DG-WOHNUNG mit Balkon, KFZ-Stellplatz & Gartenanteil mitten im Grünen in STUTTGART-WEILIMDORF',
+    link: 'https://www.immowelt.de/expose/22wah55',
+    address: 'Stuttgart (Weilimdorf)'
+  },
+  {
+    id: '2zqbu4c',
+    price: '254.900 €',
+    size: '45 m²',
+    title: 'Schöne 2-Zimmer-Wohnung mit Veranda in Stuttgart-Bad Cannstatt (Kapitalanlage)',
+    link: 'https://www.immowelt.de/expose/2zqbu4c',
+    address: 'Reichenbachstr. 40, Stuttgart (Mitte)'
+  },
+  {
+    id: '237485x',
+    price: '249.000 €',
+    size: '34.53 m²',
+    title: 'Neu renoviertes App. mit Terrasse (Blick ins Grüne) in gepflegter Wohnanlage inkl. TG Stellplatz in Stuttgart Süd',
+    link: 'https://www.immowelt.de/expose/237485x',
+    address: 'Römerstraße 68b, Stuttgart (Süd)'
+  },
+  {
+    id: '2z45c4t',
+    price: '250.000 €',
+    size: '55 m²',
+    title: 'Gemütliche 2-Zimmer-Wohnung in attraktiver Lage in Stuttgart Ost',
+    link: 'https://www.immowelt.de/expose/2z45c4t',
+    address: 'Stuttgart (Ost)'
+  },
+  {
+    id: '23g6r5u',
+    price: '79.000 €',
+    size: '63 m²',
+    title: 'Eigentumswohnung in 70439 Stuttgart, Geisinger Weg',
+    link: 'https://www.immowelt.de/expose/23g6r5u',
+    address: 'Stuttgart (Stammheim)'
+  },
+  {
+    id: '237945u',
+    price: '155.000 €',
+    size: '34 m²',
+    title: 'Erdgeschosswohnung in 70329 Stuttgart, Heimgartenstr.',
+    link: 'https://www.immowelt.de/expose/237945u',
+    address: 'Stuttgart (Hedelfingen)'
+  },
+  {
+    id: '23v845u',
+    price: '205.000 €',
+    size: '61 m²',
+    title: 'Etagenwohnung in 70376 Stuttgart, Dessauer Str.',
+    link: 'https://www.immowelt.de/expose/23v845u',
+    address: 'Stuttgart (Bad Cannstatt)'
+  },
+  {
+    id: '23kvy5t',
+    price: '155.000 €',
+    size: '34 m²',
+    title: 'Aufhebung der Gem.: 1-Zimmer-Wohnung  in Stuttgart-Hedelfingen',
+    link: 'https://www.immowelt.de/expose/23kvy5t',
+    address: 'Stuttgart (Hedelfingen)'
+  },
+  {
+    id: '23qx25s',
+    price: '280.000 €',
+    size: '50 m²',
+    title: 'Betreutes Wohnen in Feuerbach',
+    link: 'https://www.immowelt.de/expose/23qx25s',
+    address: 'Stuttgart (Feuerbach)'
+  },
+  {
+    id: '2355n5q',
+    price: '250.000 €',
+    size: '30 m²',
+    title: 'Zentrumsnahe, gepflegte Ein-Zimmer-Wohnung zu verkaufen!',
+    link: 'https://www.immowelt.de/expose/2355n5q',
+    address: 'Stuttgart (West)'
+  },
+  {
+    id: '23vfd5v',
+    price: '150.000 €',
+    size: '40 m²',
+    title: 'Sanierungsbedürftiges Appartement in ruhiger Lage !',
+    link: 'https://www.immowelt.de/expose/23vfd5v',
+    address: 'Stuttgart / Rohr (Dürrlewang)'
+  },
+  {
+    id: '23wjf5p',
+    price: '185.000 €',
+    size: '29 m²',
+    title: 'Schmuckstück in bester City-Lage: 1 ZKB (ca. 29 m²/verm.) mit Balkon & Stellplatz in S-Feuerbach',
+    link: 'https://www.immowelt.de/expose/23wjf5p',
+    address: 'Stuttgart (Feuerbach)'
+  },
+  {
+    id: '23bh55m',
+    price: '269.000 €',
+    size: '55 m²',
+    title: 'Hübsche Altbau-Wohnung im Lehenviertel',
+    link: 'https://www.immowelt.de/expose/23bh55m',
+    address: 'Stuttgart (Süd)'
+  },
+  {
+    id: '23d255x',
+    price: '205.000 €',
+    size: '61 m²',
+    title: 'Zwangsversteigerung Wohnung, Dessauer Straße in Stuttgart',
+    link: 'https://www.immowelt.de/expose/23d255x',
+    address: 'Stuttgart (Bad Cannstatt)'
+  },
+  {
+    id: '239qf5l',
+    price: '205.000 €',
+    size: '61 m²',
+    title: '2-Zimmer-Wohnung mit Balkon in Stuttgart',
+    link: 'https://www.immowelt.de/expose/239qf5l',
+    address: 'Stuttgart (Burgholzhof)'
+  },
+  {
+    id: '232s55l',
+    price: '295.000 €',
+    size: '58 m²',
+    title: 'Gut vermietete 2 Zimmerwohnung in Zazenhausen',
+    link: 'https://www.immowelt.de/expose/232s55l',
+    address: 'Stuttgart (Zuffenhausen)'
+  },
+  {
+    id: '233m45l',
+    price: '210.000 €',
+    size: '39 m²',
+    title: '++ Top-Kapitalanlage in Stuttgart-Plieningen - sofort beziehbar ++',
+    link: 'https://www.immowelt.de/expose/233m45l',
+    address: 'Stuttgart / Plieningen (Plieningen)'
+  },
+  {
+    id: '235th5v',
+    price: '249.000 €',
+    size: '61 m²',
+    title: 'SOFORTBEZUG IN RUHIGER LAGE',
+    link: 'https://www.immowelt.de/expose/235th5v',
+    address: 'Stuttgart Stuttgart-Ost (Ost)'
+  },
+  {
+    id: '23f895j',
+    price: '289.000 €',
+    size: '53 m²',
+    title: 'Toll geschnittene, sonnige 2-Zi.-ETW mit Balkon in ruhiger u. topangebundener Lage von S-Weilimdorf',
+    link: 'https://www.immowelt.de/expose/23f895j',
+    address: 'Stuttgart (Giebel)'
+  }
+,
+  {
+    id: 46245786,
+    price: '245.000 €',
+    size: 'ca. 47.99 m²',
+    title: 'Renovierungsbedürftige 3-Zimmer-Etagenwohnung mit Bühnenzimmer in S- Heslach',
+    address: 'Stuttgart Süd',
+    link: 'https://www.immonet.de/angebot/46245786'
+  },
+  {
+    id: 46243554,
+    price: '230.000 €',
+    size: 'ca. 63.0 m²',
+    title: 'Vermietete Drei-Zimmer-Wohnung in zentraler Wohnlage von S-Feuerbach',
+    address: 'Stuttgart Feuerbach',
+    link: 'https://www.immonet.de/angebot/46243554'
+  },
+  {
+    id: 46224366,
+    price: 'Verkehrswert 225.000 €',
+    size: 'ca. 77.0 m²',
+    title: 'Dachgeschosswohnung in 70374 Stuttgart, Schmidener Str.',
+    address: 'Stuttgart Bad Cannstatt',
+    link: 'https://www.immonet.de/angebot/46224366'
+  },
+  {
+    id: 46224349,
+    price: 'Verkehrswert 217.000 €',
+    size: 'ca. 125.0 m²',
+    title: 'Einfamilienhaus in 70439 Stuttgart, Freihofstr.',
+    address: 'Stuttgart Stammheim',
+    link: 'https://www.immonet.de/angebot/46224349'
+  },
+  {
+    id: 46223627,
+    price: 'Verkehrswert 225.000 €',
+    size: 'ca. 77.0 m²',
+    title: '3.Zimmerwohnung in Stuttgart-Bad Cannstadt',
+    address: 'Stuttgart Bad Cannstatt',
+    link: 'https://www.immonet.de/angebot/46223627'
+  },
+  {
+    id: 46210409,
+    price: '235.500 €',
+    size: 'ca. 48.0 m²',
+    title: '3 Zimmerwohnung mitten im Geschehen',
+    address: 'Stuttgart Bad Cannstatt',
+    link: 'https://www.immonet.de/angebot/46210409'
+  },
+  {
+    id: 46206419,
+    price: '268.500 €',
+    size: 'ca. 64.0 m²',
+    title: 'Gepflegt Wohnen mit Weitsicht - WG Willkommen!',
+    address: 'Stuttgart Bergheim',
+    link: 'https://www.immonet.de/angebot/46206419'
+  },
+  {
+    id: 46192676,
+    price: '25.000 €',
+    title: 'Grundstück in 70563 Stuttgart',
+    address: 'Stuttgart Vaihingen',
+    size: 'N/A m²',
+    link: 'https://www.immonet.de/angebot/46192676'
+  },
+  {
+    id: 46189169,
+    price: '40.000 €',
+    title: 'Ihre Parkplatz-Suche hat ein Ende -  Einzelgarage in Bad Cannstatt!',
+    address: 'Stuttgart Bad Cannstatt',
+    size: 'N/A m²',
+    link: 'https://www.immonet.de/angebot/46189169'
+  },
+  {
+    id: 46183506,
+    price: '260.000 €',
+    size: 'ca. 62.5 m²',
+    title: 'Drei-Zimmer-Wohnung in zentraler Wohnlage von S-Feuerbach',
+    address: 'Stuttgart Feuerbach',
+    link: 'https://www.immonet.de/angebot/46183506'
+  },
+  {
+    id: 46164308,
+    price: 'Verkehrswert 173.000 €',
+    size: 'ca. 55.0 m²',
+    title: 'Günstige 3-Zimmer-Wohnung in Bad Cannstatt',
+    address: 'Stuttgart Bad Cannstatt',
+    link: 'https://www.immonet.de/angebot/46164308'
+  },
+  {
+    id: 46148320,
+    price: '270.000 €',
+    title: 'Gewerbe in 70619 Stuttgart',
+    address: 'Stuttgart Heumaden',
+    size: 'N/A m²',
+    link: 'https://www.immonet.de/angebot/46148320'
+  }
+,
+
+  {
+    id: 'id22291',
+    title: 'Bauobjekt Rieslingstraße 20',
+    link: 'https://www.neubaukompass.de/neubau/rieslingstrasse-20-korb/',
+    address: 'Rieslingstraße 20, 71404 Korb (Württemberg)',
+    price: '499.900'
+  },
+  {
+    id: 'id22290',
+    title: 'Bauobjekt Römerstraße',
+    link: 'https://www.neubaukompass.de/neubau/roemerstrasse-pleidelsheim/',
+    address: 'Römerstraße, 74385 Pleidelsheim',
+    price: 'ab 240.900'
+  },
+  {
+    id: 'id22289',
+    title: 'Bauobjekt Bildäcker 6+8',
+    link: 'https://www.neubaukompass.de/neubau/bildaecker-allmersbach-im-tal/',
+    address: 'Bildäcker 6+8, 71573 Allmersbach im Tal',
+    price: 'ab 502.900'
+  },
+  {
+    id: 'id22279',
+    title: 'Bauobjekt Fuchsweg 29',
+    link: 'https://www.neubaukompass.de/neubau/fuchsweg-29-sindelfingen/',
+    address: 'Fuchsweg 29, 71063 Sindelfingen',
+    price: 'Auf Anfrage'
+  },
+  {
+    id: 'id22270',
+    title: 'Bauobjekt Pichlerstraße 12',
+    link: 'https://www.neubaukompass.de/neubau/pichlerstrasse-wiernsheim/',
+    address: 'Pichlerstraße 12, 75446 Wiernsheim',
+    price: '319.000 - 599.000'
+  },
+  {
+    id: 'id22249',
+    title: 'Bauobjekt Hans Sachs 5',
+    link: 'https://www.neubaukompass.de/neubau/hans-sachs-sachsenheim/',
+    address: 'Hans-Sachs-Straße 5, 74343 Sachsenheim',
+    price: '367.800 - 689.800'
+  },
+  {
+    id: 'id22224',
+    title: 'Bauobjekt neckar flair',
+    link: 'https://www.neubaukompass.de/neubau/neckar-flair-stuttgart/',
+    address: 'Hofener Straße 46/48, 70372 Stuttgart / Bad Cannstatt',
+    price: '459.900 - 994.900'
+  },
+  {
+    id: 'id22212',
+    title: 'Bauobjekt Wohnpark Ochsenareal',
+    link: 'https://www.neubaukompass.de/neubau/wohnpark-ochsenareal-bad-liebenzell/',
+    address: '75378 Bad Liebenzell',
+    price: '253.050 - 570.850'
+  },
+  {
+    id: 'id22206',
+    title: 'Bauobjekt PROJEKT WALDNAH',
+    link: 'https://www.neubaukompass.de/neubau/projekt-waldnah-pforzheim/',
+    address: 'Pforzheim / Huchenfeld',
+    price: '480.873'
+  },
+  {
+    id: 'id22192',
+    title: 'Bauobjekt Flachter Straße 5',
+    link: 'https://www.neubaukompass.de/neubau/flachter-strasse-5-weissach/',
+    address: 'Flachter Straße 5, 71287 Weissach (Baden-Württemberg)',
+    price: 'Auf Anfrage'
+  },
+  {
+    id: 'id22191',
+    title: 'Bauobjekt Greutweg 52',
+    link: 'https://www.neubaukompass.de/neubau/greutweg-52-unterensingen/',
+    address: 'Greutweg 52, 72669 Unterensingen',
+    price: 'Auf Anfrage'
+  },
+  {
+    id: 'id22189',
+    title: 'Bauobjekt Dinkelstraße 3',
+    link: 'https://www.neubaukompass.de/neubau/dinkelstrasse-3-korntal-muenchingen/',
+    address: 'Dinkelstr. 3, 70185 Korntal-Münchingen',
+    price: '303.000 - 870.000'
+  },
+  {
+    id: 'id22183',
+    title: 'Bauobjekt Wohnen auf den Fildern',
+    link: 'https://www.neubaukompass.de/neubau/wohnen-auf-den-fildern-ostfildern/',
+    address: 'Ruiter Straße 19 / Vordere Hassen 1-3, Ostfildern / Scharnhausen',
+    price: '374.500 - 984.000'
+  },
+  {
+    id: 'id22157',
+    title: 'Bauobjekt Gartenstraße 16',
+    link: 'https://www.neubaukompass.de/neubau/gartenstrasse-16-besigheim/',
+    address: 'Gartenstraße 16, 74354 Besigheim',
+    price: 'Auf Anfrage'
+  },
+  {
+    id: 'id22155',
+    title: 'Bauobjekt Beethovenstraße 3',
+    link: 'https://www.neubaukompass.de/neubau/beethovenstrasse-3-engelsbrand/',
+    address: 'Beethovenstraße 3, 75331 Engelsbrand',
+    price: 'Auf Anfrage'
+  },
+  {
+    id: 'id22087',
+    title: 'Bauobjekt Bei den Linden 18/1',
+    link: 'https://www.neubaukompass.de/neubau/bei-den-linden-laichingen/',
+    address: 'Bei den Linden 18.1, 89150 Laichingen',
+    price: 'Auf Anfrage'
+  }
+,
+  {
+    id: 1979093800,
+    price: '75.000 € VB',
+    title: 'Eine 3 Zimmer Wohnung zum Verkaufen ( in Türkei )',
+    link: 'https://www.ebay-kleinanzeigen.de/s-anzeige/eine-3-zimmer-wohnung-zum-verkaufen-in-tuerkei-/1979093800-275-9335',
+    description: 'Sehr geehrte Interessierte, hiermit möchte meine Wohnung, die sich in der Türkei befindet,...',
+    address: '70374 Bad-Cannstatt',
+    size: '--- m²'
+  },
+  {
+    id: 1978863046,
+    price: '178.000 €',
+    title: 'Sichere Anlageimmobilie - ohne Vermietungsaufwand | Betreutes Wohnen | Pflegeappartements | Seniorengerechtes Wohnen | bei Stuttgart',
+    link: 'https://www.ebay-kleinanzeigen.de/s-anzeige/sichere-anlageimmobilie-ohne-vermietungsaufwand-betreutes-wohnen-pflegeappartements-seniorengerechtes-wohnen-bei-stuttgart/1978863046-196-9289',
+    description: '**✔️ SICHERSTE UND PASSIVSTE FORM VON ANLAGEIMMOBILIEN: EINE BETREUTE WOHNUNG ODER APPARTEMENT IM...',
+    address: '70174 Stuttgart-Mitte',
+    size: '--- m²'
+  },
+  {
+    id: 1124651846,
+    price: '129.000 €',
+    title: 'Solar Invest in eigenständige Photovoltaikanlage mit 7% p.a.',
+    link: 'https://www.ebay-kleinanzeigen.de/s-anzeige/solar-invest-in-eigenstaendige-photovoltaikanlage-mit-7-p-a-/1124651846-198-9290',
+    description: 'Ein PHOTOVOLTAIK DIREKTINVESTMENT in Deutschland zählt aufgrund millionenfach bewährter Technik,...',
+    address: '70197 Stuttgart-West',
+    size: '--- m²'
+  },
+  {
+    id: 1977936019,
+    price: '180.000 €',
+    title: 'klein,fein, ein - Charmante Villa mit 2 SZ auf 505 qm Grundstück',
+    link: 'https://www.ebay-kleinanzeigen.de/s-anzeige/klein-fein-ein-charmante-villa-mit-2-sz-auf-505-qm-grundstueck/1977936019-275-9283',
+    description: 'Auf einem fast ebenen Grundstück mit viel Grün steht diese Villa mit einem Wohnzimmer mit Kamin,...',
+    address: '70173 Stuttgart-Mitte',
+    size: '--- m²'
+  },
+  {
+    id: 1977586306,
+    price: '199.000 € VB',
+    size: '2 Zimmer',
+    title: 'Wohnung in Stuttgart 70374; Burckhardtstr. [sanierungsbedürftig]',
+    link: 'https://www.ebay-kleinanzeigen.de/s-anzeige/wohnung-in-stuttgart-70374-burckhardtstr-sanierungsbeduerftig-/1977586306-203-9335',
+    description: 'Liebe Community, Wir verkaufen eine Wohnung in Stuttgart 70374, Burckhardt Straße Kurz vorab: Die...',
+    address: '70374 Bad-Cannstatt'
+  },
+  {
+    id: 1951288660,
+    price: '84.950 € VB',
+    title: 'Ferienwohnung Antalya/Mahmutlar Erst Bezug Luxus',
+    link: 'https://www.ebay-kleinanzeigen.de/s-anzeige/ferienwohnung-antalya-mahmutlar-erst-bezug-luxus/1951288660-275-9283',
+    description: 'Ferienwohnung Türkei Antalya- Alanya - Mahmutlar Gelegenheit. CEDEN LEBEN ➡️...',
+    address: '70173 Stuttgart-Mitte',
+    size: '--- m²'
+  },
+  {
+    id: 1976674587,
+    price: '120.000 € VB',
+    title: 'Traumhaftes Gartengrundstück in Stuttgart Uhlbach',
+    link: 'https://www.ebay-kleinanzeigen.de/s-anzeige/traumhaftes-gartengrundstueck-in-stuttgart-uhlbach/1976674587-207-9334',
+    description: 'Zum Verkauf steht ein einmaliges Gartengrundstück in einem der schönsten Stadtteile...',
+    address: '70378 Mühlhausen',
+    size: '--- m²'
+  },
+  {
+    id: 1874150968,
+    price: '245.000 € VB',
+    title: 'Interessante und moderne Büroeinheit in Stuttgart Ost-Gaisburg!!',
+    link: 'https://www.ebay-kleinanzeigen.de/s-anzeige/interessante-und-moderne-bueroeinheit-in-stuttgart-ost-gaisburg-/1874150968-277-9282',
+    description: 'Diese zum Verkauf stehenden Büroflächen samt Abstellraum im UG ,befinden sich in einem im Jahre...',
+    address: '70188 Stuttgart-Ost',
+    size: '--- m²'
+  },
+  {
+    id: 1968749883,
+    price: '65.000 € VB',
+    title: 'Idyllisches Gartengrundstück inkl Gartenhaus in Stuttgart',
+    link: 'https://www.ebay-kleinanzeigen.de/s-anzeige/idyllisches-gartengrundstueck-inkl-gartenhaus-in-stuttgart/1968749883-207-19335',
+    description: 'Zum Verkauf kommt unser wunderschönes Gartengrundstück mit Gartenhaus. Am Frauenkopf, Wangener...',
+    address: '70327 Stuttgart-Ost',
+    size: '--- m²'
+  },
+  {
+    id: 1974830265,
+    price: '149.000 €',
+    title: 'Kleine Wohnung mit Balkon',
+    link: 'https://www.ebay-kleinanzeigen.de/s-anzeige/kleine-wohnung-mit-balkon/1974830265-196-9334',
+    description: '# Objektbeschreibung Diese kleine Wohnung befindet sich in Stuttgart-Mühlhausen, am Rande des...',
+    address: '70378 Mühlhausen',
+    size: '--- m²'
+  },
+  {
+    id: 446498694,
+    price: '160.000 €',
+    title: 'Landhaus auf Südkreta',
+    link: 'https://www.ebay-kleinanzeigen.de/s-anzeige/landhaus-auf-suedkreta/446498694-275-9600',
+    description: 'Landhaus auf Südkreta Lagebeschreibung: Das Landhaus befindet sich in Südkreta in dem kleinen Dorf...',
+    address: '70174 Stuttgart-Nord',
+    size: '--- m²'
+  },
+  {
+    id: 1948739328,
+    price: '225.000 €',
+    title: 'Renditeobjekt (Gewerbe ) in Stuttgart Heumaden ca. 100m²',
+    link: 'https://www.ebay-kleinanzeigen.de/s-anzeige/renditeobjekt-gewerbe-in-stuttgart-heumaden-ca-100m-/1948739328-277-9304',
+    description: '\\*\\***Objektbeschreibung :**\\*\\*Gewerbeladen mit ca. 65m² Verkaufs und ca.35m² Ladefläche. Das...',
+    address: '70619 Sillenbuch',
+    size: '--- m²'
+  },
+  {
+    id: 1926294526,
+    price: '219.000 €',
+    title: 'RA-0121 / HELLES REIHENHAUS MIT 4 SZ NUR 200 M VOM SANDSTRAND',
+    link: 'https://www.ebay-kleinanzeigen.de/s-anzeige/ra-0121-helles-reihenhaus-mit-4-sz-nur-200-m-vom-sandstrand/1926294526-275-9283',
+    description: 'n Oliva finden Sie mit Abstand die schönsten Strände der nördlichen Costa Blanca. Das...',
+    address: '70173 Stuttgart-Mitte',
+    size: '--- m²'
+  },
+  {
+    id: 1972190725,
+    price: '106.000 €',
+    title: 'Kostenfreie Mietbetreuung im ersten Jahr - Neubauprojekt Dubai',
+    link: 'https://www.ebay-kleinanzeigen.de/s-anzeige/kostenfreie-mietbetreuung-im-ersten-jahr-neubauprojekt-dubai/1972190725-275-9283',
+    description: 'Wir freuen uns Ihnen mit nachfolgendem Exposé das Neubauprojekt Samana Park Views in Dubai...',
+    address: '70173 Stuttgart-Mitte',
+    size: '--- m²'
+  },
+  {
+    id: 1971889971,
+    price: '100.000 € VB',
+    title: 'Restaurant',
+    link: 'https://www.ebay-kleinanzeigen.de/s-anzeige/restaurant/1971889971-277-9291',
+    description: 'Hiermit vermiete ich im Auftrag ein Neu eingerichtet und Renoviertes Thailändisches Restaurant in...',
+    address: '70190 Stuttgart-Ost',
+    size: '--- m²'
+  },
+  {
+    id: 1961130438,
+    price: '255.000 €',
+    title: 'Ladenlokal/Restaurant',
+    link: 'https://www.ebay-kleinanzeigen.de/s-anzeige/ladenlokal-restaurant/1961130438-277-9307',
+    description: 'Hier wird ein ehemaliges Restaurant im Einkaufszentrum verkauft',
+    address: '70437 Mühlhausen',
+    size: '--- m²'
+  },
+  {
+    id: 1971466493,
+    price: '160.000 € VB',
+    title: '+++Renditestarke Kapitalanlage als Pflegeimmobilie+++',
+    link: 'https://www.ebay-kleinanzeigen.de/s-anzeige/-renditestarke-kapitalanlage-als-pflegeimmobilie-/1971466493-196-9283',
+    description: 'Eine Pflegeimmobilie als Kapitalanlage bietet Investoren eine interessante Alternative zu...',
+    address: '70173 Stuttgart-Mitte',
+    size: '--- m²'
+  },
+  {
+    id: 1971287987,
+    price: '130.000 € VB',
+    title: 'Grundstück in Polen Ausland',
+    link: 'https://www.ebay-kleinanzeigen.de/s-anzeige/grundstueck-in-polen-ausland/1971287987-275-9287',
+    description: 'Tolles Grundstück in Polen ,80 km von Warschau, Erdenebig und Teil bewaldeten. Alle Papiere...',
+    address: '70182 Stuttgart-Mitte',
+    size: '--- m²'
+  },
+  {
+    id: 1970801675,
+    price: '142.500 €',
+    title: 'Räumlichkeiten in Wohnnutzung in Stuttgart West/Nord von Privat!',
+    link: 'https://www.ebay-kleinanzeigen.de/s-anzeige/raeumlichkeiten-in-wohnnutzung-in-stuttgart-west-nord-von-privat-/1970801675-277-9305',
+    description: 'Eine praktische Wohnung für Bescheidene. - Das Wohn/Schlafzimmer bietet genug Platz für eine...',
+    address: '70469 Feuerbach',
+    size: '--- m²'
+  },
+  {
+    id: 1970795227,
+    price: '70.000 €',
+    title: 'Luxusanlage Wohnung in Side außerhalb zu Verkaufen 1 Zimmer',
+    link: 'https://www.ebay-kleinanzeigen.de/s-anzeige/luxusanlage-wohnung-in-side-ausserhalb-zu-verkaufen-1-zimmer/1970795227-275-9283',
+    description: 'Willkommen in einer der schönsten Luxusanlagen im Raum Side (außerhalb) zu verkaufen in 1 Zimmer...',
+    address: '70173 Stuttgart-Mitte',
+    size: '--- m²'
+  },
+  {
+    id: 1943186969,
+    price: '175.000 € VB',
+    title: 'Ferienhaus aufs Insel Brac Kroatien',
+    link: 'https://www.ebay-kleinanzeigen.de/s-anzeige/ferienhaus-aufs-insel-brac-kroatien/1943186969-275-9304',
+    description: '- 2 Familien- Ferienhaus in Supetar, Insel Brac, Nähe bei Split - Wäschekeller extra aussen -...',
+    address: '70619 Sillenbuch',
+    size: '--- m²'
+  },
+  {
+    id: 1970115181,
+    price: '123.456 € VB',
+    size: '3 Zimmer',
+    title: 'Suche Eigentumswohnung in Sonthofen/Oberstdorf',
+    link: 'https://www.ebay-kleinanzeigen.de/s-anzeige/suche-eigentumswohnung-in-sonthofen-oberstdorf/1970115181-196-9283',
+    description: 'Hallo liebe potentielle Nachbarn, hallo liebe Immobilienbesitzer, Sie kennen jemanden, der plant...',
+    address: '70173 Stuttgart-Mitte'
+  },
+  {
+    id: 1969813852,
+    price: '235.000 € VB',
+    title: 'WUNDERBARES TRIPLEX HAUS IN DER TURKEI!!!',
+    link: 'https://www.ebay-kleinanzeigen.de/s-anzeige/wunderbares-triplex-haus-in-der-turkei-/1969813852-275-9592',
+    description: 'Traum Haus in der Turkei!!! Ohne Stress, Wald und Meer!!! Ganz ruhige Gebiet Einkaufen, Bazar...',
+    address: '70499 Weilimdorf',
+    size: '--- m²'
+  },
+  {
+    id: 1969789958,
+    price: '180.000 €',
+    title: 'Haus in Mersin zu verkaufen (6 Zimmer mit Garten, 350 m2)',
+    link: 'https://www.ebay-kleinanzeigen.de/s-anzeige/haus-in-mersin-zu-verkaufen-6-zimmer-mit-garten-350-m2-/1969789958-275-9299',
+    description: 'Typ: Doppelhaushälfte Etagenanzahl: 2 Wohnfläche: 242 m2 Grundstück: 350 m2 Gesamtanzahl-Zimmer:...',
+    address: '70567 Möhringen',
+    size: '--- m²'
+  },
+  {
+    id: 1969763448,
+    price: '250.000 €',
+    title: 'Haus in Montenegro Sutomore zum Verkauf oder Tausch',
+    link: 'https://www.ebay-kleinanzeigen.de/s-anzeige/haus-in-montenegro-sutomore-zum-verkauf-oder-tausch/1969763448-275-9593',
+    description: 'Haus ist ca . 550 Quadratmeter mit 3 Großen Terassen . 800 Meter von einem der Längsten Strände in...',
+    address: '70437 Zuffenhausen',
+    size: '--- m²'
+  },
+  {
+    id: 1678876052,
+    price: '89.000 €',
+    title: 'Corona-Urlaub daheim! Wunderschönes Gartengrundstück in Aussichtslage von Stuttgart',
+    link: 'https://www.ebay-kleinanzeigen.de/s-anzeige/corona-urlaub-daheim-wunderschoenes-gartengrundstueck-in-aussichtslage-von-stuttgart/1678876052-207-9285',
+    description: '# Objektbeschreibung Dieses Gartengrundstück bietet ihnen folgende Highlights: Traumhafte Aussicht...',
+    address: '70186 Stuttgart-Ost',
+    size: '--- m²'
+  },
+  {
+    id: 1968792640,
+    price: '175.000 €',
+    title: 'HAUS IN ISTRIEN',
+    link: 'https://www.ebay-kleinanzeigen.de/s-anzeige/haus-in-istrien/1968792640-275-9281',
+    description: 'Das alleinstehende Haus in Istrien hat eine besammt Wohnflaeche von 70m2 . Dazu kommt noch die...',
+    address: '70180 Stuttgart-Süd',
+    size: '--- m²'
+  },
+  {
+    id: 1968043217,
+    price: '174.900 €',
+    title: 'ERDGESCHOSS-WOHNUNG IN PLAYA DE LA ROMANILLA; ROQUETAS DE MAR',
+    link: 'https://www.ebay-kleinanzeigen.de/s-anzeige/erdgeschoss-wohnung-in-playa-de-la-romanilla-roquetas-de-mar/1968043217-275-9290',
+    description: 'Direkter Zugang zur Promenade und zum Strand 85qm bebaute Fläche 3-Schlafzimmer 2 Bäder mit...',
+    address: '70197 Stuttgart-West',
+    size: '--- m²'
+  },
+  {
+    id: 1136519154,
+    price: '55.700 €',
+    title: '15x20x4,3m Stahlhalle - Gewerbehalle Werkzeugmagazin Lagerhalle',
+    link: 'https://www.ebay-kleinanzeigen.de/s-anzeige/15x20x4-3m-stahlhalle-gewerbehalle-werkzeugmagazin-lagerhalle/1136519154-277-9283',
+    description: 'Benötigen Sie eine Lagerhalle, Thermohalle, Reithalle oder denken Sie an einem individuellen...',
+    address: '70173 Stuttgart-Mitte',
+    size: '--- m²'
+  },
+  {
+    id: 1967200910,
+    price: '240.000 €',
+    title: 'Luxus Villa in der Türkei Istanbul am Meer',
+    link: 'https://www.ebay-kleinanzeigen.de/s-anzeige/luxus-villa-in-der-tuerkei-istanbul-am-meer/1967200910-275-9333',
+    description: 'EIN TRAUMHAFTES PROJEKT MITTEN IN ISTANBUL, IM HERZEN DER STADT Es ist ein unübersehbares Projekt...',
+    address: '70372 Bad-Cannstatt',
+    size: '--- m²'
+  },
+  {
+    id: 1963587319,
+    price: '150.000 €',
+    title: 'Textilreinigung / Wäscherei (krisensicher) zu verkaufen',
+    link: 'https://www.ebay-kleinanzeigen.de/s-anzeige/textilreinigung-waescherei-krisensicher-zu-verkaufen/1963587319-277-9285',
+    description: 'Wir suchen einen Nachfolger für unseren Betrieb. (Seit 1990 in Stuttgart) . Ablöse sind 150.000 €....',
+    address: '70186 Stuttgart-Ost',
+    size: '--- m²'
+  },
+  {
+    id: 1962470848,
+    price: '99.000 €',
+    title: 'Selbstversogerhof mit viel Potenzial Slowenien zu verkaufen',
+    link: 'https://www.ebay-kleinanzeigen.de/s-anzeige/selbstversogerhof-mit-viel-potenzial-slowenien-zu-verkaufen/1962470848-275-9283',
+    description: 'Selbstversogerhof mit Potenzial Slowenien zu verkaufen Kleiner Selbst Versoger Hof mit mega viel...',
+    address: '70173 Stuttgart-Mitte',
+    size: '--- m²'
+  },
+  {
+    id: 1961810703,
+    price: '79.000 €',
+    title: 'Individual Loft by islandloft® | Wohncontainer Tinyhouse Premium',
+    link: 'https://www.ebay-kleinanzeigen.de/s-anzeige/individual-loft-by-islandloft-wohncontainer-tinyhouse-premium/1961810703-208-9284',
+    description: 'Individual Loft by islandloft® |Wohncontainer in kompletter Premium Ausstattung. Der...',
+    address: '70176 Stuttgart-West',
+    size: '--- m²'
+  },
+  {
+    id: 1961086874,
+    price: '270.000 €',
+    title: 'Laden in 70619 Stuttgart, Melonenstr.',
+    link: 'https://www.ebay-kleinanzeigen.de/s-anzeige/laden-in-70619-stuttgart-melonenstr-/1961086874-277-9304',
+    description: '# Objektbeschreibung Eigentumsgewerbefläche, Baujahr: 1971, Aufteilungsplan: 25,...',
+    address: '70619 Sillenbuch',
+    size: '--- m²'
+  },
+  {
+    id: 1960701574,
+    price: '60.000 € VB',
+    title: 'Garten mit Steinhaus und Stromanschluss 3ar 24qm in stuttgart',
+    link: 'https://www.ebay-kleinanzeigen.de/s-anzeige/garten-mit-steinhaus-und-stromanschluss-3ar-24qm-in-stuttgart/1960701574-207-9336',
+    description: 'Weg.. Wangener Kirche Richtung wangener höhenweg auf dem weg bleiben bis ein großes...',
+    address: '70327 Wangen',
+    size: '--- m²'
+  },
+  {
+    id: 1959780966,
+    price: '78.500 €',
+    title: 'Wohnung zu verkaufen in Ilica bei Side Türkei',
+    link: 'https://www.ebay-kleinanzeigen.de/s-anzeige/wohnung-zu-verkaufen-in-ilica-bei-side-tuerkei/1959780966-275-9283',
+    description: 'Unser Standort liegt in der Luft und Natur in den Hügeln von Ilıca. Unsere Wohnung ist 2+1...',
+    address: '70173 Stuttgart-Mitte',
+    size: '--- m²'
+  },
+  {
+    id: 1959173397,
+    price: '200.000 €',
+    size: '1 Zimmer',
+    title: '1 ZW in Stuttgart-Möhringen',
+    link: 'https://www.ebay-kleinanzeigen.de/s-anzeige/1-zw-in-stuttgart-moehringen/1959173397-196-9299',
+    description: 'Schönes Appartement in gepflegtem Wohnobjekt in Möhringen zu verkaufen. Supermärkte und der Bahnhof...',
+    address: '70567 Möhringen'
+  },
+  {
+    id: 1958363377,
+    price: '218.000 € VB',
+    size: '2 Zimmer',
+    title: 'eigentumswohnung wohnung stuttgart ost',
+    link: 'https://www.ebay-kleinanzeigen.de/s-anzeige/eigentumswohnung-wohnung-stuttgart-ost/1958363377-196-9282',
+    description: 'Sympathische 2 Zimmer Wohnung in Stuttgart Ost - Zentrum 2 Zimmer Wohnung mit hohe Wende fast 2.80...',
+    address: '70188 Stuttgart-Ost'
+  },
+  {
+    id: 1958204971,
+    price: '259.000 €',
+    size: '2 Zimmer',
+    title: 'Ihre nächste Kapitalanlage? - 2-Zi ETW in Obertürkheim',
+    link: 'https://www.ebay-kleinanzeigen.de/s-anzeige/ihre-naechste-kapitalanlage-2-zi-etw-in-obertuerkheim/1958204971-196-9601',
+    description: '**Objektbeschreibung** In diesem idyllischen Altbau schlagen Herzen höher. Das im Jahr 1920...',
+    address: '70329 Obertürkheim'
+  },
+  {
+    id: 1957282737,
+    price: '147.000 € VB',
+    title: 'Villa in Antalya Colakli',
+    link: 'https://www.ebay-kleinanzeigen.de/s-anzeige/villa-in-antalya-colakli/1957282737-275-9336',
+    description: 'Antalya/Colakli von Eigentümer 600 Meter zum Meer ( fußläufig ) In einer sehr ruhigen...',
+    address: '70327 Wangen',
+    size: '--- m²'
+  }
+,
+  {
+    id: 131169764,
+    price: '200.000 €',
+    size: '23 m²',
+    title: 'Sanierte (2018) und Vollständig möblierte 1-Zimmerwohnung in Stuttgart-Vaihingen zu verkaufen',
+    link: 'https://www.immobilienscout24.de/expose/131169764',
+    address: 'Robert-Leicht-Straße 155 A, Dachswald, Stuttgart'
+  }
+,
+  {
+    id: 1979461965,
+    price: '249.000 € VB',
+    title: 'KUSADASI / LUXURIÖSE 6 ZIMMER MIT MEERBLICK VILLEN ZUVERKAUFEN',
+    link: 'https://www.ebay-kleinanzeigen.de/s-anzeige/kusadasi-luxurioese-6-zimmer-mit-meerblick-villen-zuverkaufen/1979461965-275-9600',
+    description: 'TÜRKEI / KUSADASI LUXURIÖSE 6 ZIMMER FREISTEHN MIT PANAROMA MEERBLICK VILLEN ZU...',
+    address: '70174 Stuttgart-Nord',
+    size: '--- m²'
+  },
+  {
+    id: 1979425471,
+    price: '216.000 € VB',
+    title: 'KUSADASI / MIT MEERBLICK EXLUSIVE VILLEN ZUVERKAUFEN',
+    link: 'https://www.ebay-kleinanzeigen.de/s-anzeige/kusadasi-mit-meerblick-exlusive-villen-zuverkaufen/1979425471-275-9600',
+    description: 'IN TÜRKEI / KUSADASI 5 ZIMMER FREISTEHEN VILLEN MIT WUNDERSCHÖNE PANORAMA MEERBLICK ZU...',
+    address: '70174 Stuttgart-Nord',
+    size: '--- m²'
+  }
+,
+  {
+    id: 130961288,
+    price: '170.000 €',
+    size: '60 m²',
+    title: 'Exklusive 2-Zimmer-Terrassenwohnung in Wildberg/Wächtersberg',
+    link: 'https://www.immobilienscout24.de/expose/130961288',
+    address: 'Sulzerstraße 84/4, Wildberg, Calw (Kreis)'
+  },
+  {
+    id: 131174009,
+    price: '207.000 €',
+    size: '54 m²',
+    title: 'Exklusive 2-Zimmer-EG-Wohnung mit Balkon in Heilbronn',
+    link: 'https://www.immobilienscout24.de/expose/131174009',
+    address: 'Böckingen, Heilbronn'
+  }
+,
+  {
+    id: 130961351,
+    price: '225.000 €',
+    size: '49,41 m²',
+    title: '2-Zimmerwohnung im Mehrfamilienhaus / Tiefgaragenstellplatz im Preis inbegriffen!',
+    link: 'https://www.immobilienscout24.de/expose/130961351',
+    address: 'Heilbronnerstraße 30, Innenstadt, Esslingen am Neckar'
+  },{
+    price: '250.000 €',
+    size: '30 m²',
+    title: 'Zentrumsnahe, gepflegte Ein-Zimmer-Wohnung zu verkaufen!',
+    link: 'https://www.immowelt.de/expose/2355n5q',
+    address: 'Stuttgart (West)'
+  },
+  {
+    id: '23vfd5v',
+    price: '150.000 €',
+    size: '40 m²',
+    title: 'Sanierungsbedürftiges Appartement in ruhiger Lage !',
+    link: 'https://www.immowelt.de/expose/23vfd5v',
+    address: 'Stuttgart / Rohr (Dürrlewang)'
+  },
+  {
+    id: '23wjf5p',
+    price: '185.000 €',
+    size: '29 m²',
+    title: 'Schmuckstück in bester City-Lage: 1 ZKB (ca. 29 m²/verm.) mit Balkon & Stellplatz in S-Feuerbach',
+    link: 'https://www.immowelt.de/expose/23wjf5p',
+    address: 'Stuttgart (Feuerbach)'
+  },
+  {
+    id: '23bh55m',
+    price: '269.000 €',
+    size: '55 m²',
+    title: 'Hübsche Altbau-Wohnung im Lehenviertel',
+    link: 'https://www.immowelt.de/expose/23bh55m',
+    address: 'Stuttgart (Süd)'
+  },
+  {
+    id: '23d255x',
+    price: '205.000 €',
+    size: '61 m²',
+    title: 'Zwangsversteigerung Wohnung, Dessauer Straße in Stuttgart',
+    link: 'https://www.immowelt.de/expose/23d255x',
+    address: 'Stuttgart (Bad Cannstatt)'
+  },
+  {
+    id: '239qf5l',
+    price: '205.000 €',
+    size: '61 m²',
+    title: '2-Zimmer-Wohnung mit Balkon in Stuttgart',
+    link: 'https://www.immowelt.de/expose/239qf5l',
+    address: 'Stuttgart (Burgholzhof)'
+  },
+  {
+    id: '232s55l',
+    price: '295.000 €',
+    size: '58 m²',
+    title: 'Gut vermietete 2 Zimmerwohnung in Zazenhausen',
+    link: 'https://www.immowelt.de/expose/232s55l',
+    address: 'Stuttgart (Zuffenhausen)'
+  },
+  {
+    id: '233m45l',
+    price: '210.000 €',
+    size: '39 m²',
+    title: '++ Top-Kapitalanlage in Stuttgart-Plieningen - sofort beziehbar ++',
+    link: 'https://www.immowelt.de/expose/233m45l',
+    address: 'Stuttgart / Plieningen (Plieningen)'
+  },
+  {
+    id: '235th5v',
+    price: '249.000 €',
+    size: '61 m²',
+    title: 'SOFORTBEZUG IN RUHIGER LAGE',
+    link: 'https://www.immowelt.de/expose/235th5v',
+    address: 'Stuttgart Stuttgart-Ost (Ost)'
+  },
+  {
+    id: '23f895j',
+    price: '289.000 €',
+    size: '53 m²',
+    title: 'Toll geschnittene, sonnige 2-Zi.-ETW mit Balkon in ruhiger u. topangebundener Lage von S-Weilimdorf',
+    link: 'https://www.immowelt.de/expose/23f895j',
+    address: 'Stuttgart (Giebel)'
+  },
+  {
+    id: 46245786,
+    price: '245.000 €',
+    size: 'ca. 47.99 m²',
+    title: 'Renovierungsbedürftige 3-Zimmer-Etagenwohnung mit Bühnenzimmer in S- Heslach',
+    address: 'Stuttgart Süd',
+    link: 'https://www.immonet.de/angebot/46245786'
+  },
+  {
+    id: 46243554,
+    price: '230.000 €',
+    size: 'ca. 63.0 m²',
+    title: 'Vermietete Drei-Zimmer-Wohnung in zentraler Wohnlage von S-Feuerbach',
+    address: 'Stuttgart Feuerbach',
+    link: 'https://www.immonet.de/angebot/46243554'
+  },
+  {
+    id: 46224366,
+    price: 'Verkehrswert 225.000 €',
+    size: 'ca. 77.0 m²',
+    title: 'Dachgeschosswohnung in 70374 Stuttgart, Schmidener Str.',
+    address: 'Stuttgart Bad Cannstatt',
+    link: 'https://www.immonet.de/angebot/46224366'
+  },
+  {
+    id: 46224349,
+    price: 'Verkehrswert 217.000 €',
+    size: 'ca. 125.0 m²',
+    title: 'Einfamilienhaus in 70439 Stuttgart, Freihofstr.',
+    address: 'Stuttgart Stammheim',
+    link: 'https://www.immonet.de/angebot/46224349'
+  },
+  {
+    id: 46223627,
+    price: 'Verkehrswert 225.000 €',
+    size: 'ca. 77.0 m²',
+    title: '3.Zimmerwohnung in Stuttgart-Bad Cannstadt',
+    address: 'Stuttgart Bad Cannstatt',
+    link: 'https://www.immonet.de/angebot/46223627'
+  },
+  {
+    id: 46210409,
+    price: '235.500 €',
+    size: 'ca. 48.0 m²',
+    title: '3 Zimmerwohnung mitten im Geschehen',
+    address: 'Stuttgart Bad Cannstatt',
+    link: 'https://www.immonet.de/angebot/46210409'
+  },
+  {
+    id: 46206419,
+    price: '268.500 €',
+    size: 'ca. 64.0 m²',
+    title: 'Gepflegt Wohnen mit Weitsicht - WG Willkommen!',
+    address: 'Stuttgart Bergheim',
+    link: 'https://www.immonet.de/angebot/46206419'
+  },
+  {
+    id: 46192676,
+    price: '25.000 €',
+    title: 'Grundstück in 70563 Stuttgart',
+    address: 'Stuttgart Vaihingen',
+    size: 'N/A m²',
+    link: 'https://www.immonet.de/angebot/46192676'
+  },
+  {
+    id: 46189169,
+    price: '40.000 €',
+    title: 'Ihre Parkplatz-Suche hat ein Ende -  Einzelgarage in Bad Cannstatt!',
+    address: 'Stuttgart Bad Cannstatt',
+    size: 'N/A m²',
+    link: 'https://www.immonet.de/angebot/46189169'
+  },
+  {
+    id: 46183506,
+    price: '260.000 €',
+    size: 'ca. 62.5 m²',
+    title: 'Drei-Zimmer-Wohnung in zentraler Wohnlage von S-Feuerbach',
+    address: 'Stuttgart Feuerbach',
+    link: 'https://www.immonet.de/angebot/46183506'
+  },
+  {
+    id: 46164308,
+    price: 'Verkehrswert 173.000 €',
+    size: 'ca. 55.0 m²',
+    title: 'Günstige 3-Zimmer-Wohnung in Bad Cannstatt',
+    address: 'Stuttgart Bad Cannstatt',
+    link: 'https://www.immonet.de/angebot/46164308'
+  },
+  {
+    id: 46148320,
+    price: '270.000 €',
+    title: 'Gewerbe in 70619 Stuttgart',
+    address: 'Stuttgart Heumaden',
+    size: 'N/A m²',
+    link: 'https://www.immonet.de/angebot/46148320'
+  },
+  {
+    id: 'id22291',
+    title: 'Bauobjekt Rieslingstraße 20',
+    link: 'https://www.neubaukompass.de/neubau/rieslingstrasse-20-korb/',
+    address: 'Rieslingstraße 20, 71404 Korb (Württemberg)',
+    price: '499.900'
+  },
+  {
+    id: 'id22290',
+    title: 'Bauobjekt Römerstraße',
+    link: 'https://www.neubaukompass.de/neubau/roemerstrasse-pleidelsheim/',
+    address: 'Römerstraße, 74385 Pleidelsheim',
+    price: 'ab 240.900'
+  },
+  {
+    id: 'id22289',
+    title: 'Bauobjekt Bildäcker 6+8',
+    link: 'https://www.neubaukompass.de/neubau/bildaecker-allmersbach-im-tal/',
+    address: 'Bildäcker 6+8, 71573 Allmersbach im Tal',
+    price: 'ab 502.900'
+  },
+  {
+    id: 'id22279',
+    title: 'Bauobjekt Fuchsweg 29',
+    link: 'https://www.neubaukompass.de/neubau/fuchsweg-29-sindelfingen/',
+    address: 'Fuchsweg 29, 71063 Sindelfingen',
+    price: 'Auf Anfrage'
+  },
+  {
+    id: 'id22270',
+    title: 'Bauobjekt Pichlerstraße 12',
+    link: 'https://www.neubaukompass.de/neubau/pichlerstrasse-wiernsheim/',
+    address: 'Pichlerstraße 12, 75446 Wiernsheim',
+    price: '319.000 - 599.000'
+  },
+  {
+    id: 'id22249',
+    title: 'Bauobjekt Hans Sachs 5',
+    link: 'https://www.neubaukompass.de/neubau/hans-sachs-sachsenheim/',
+    address: 'Hans-Sachs-Straße 5, 74343 Sachsenheim',
+    price: '367.800 - 689.800'
+  },
+  {
+    id: 'id22224',
+    title: 'Bauobjekt neckar flair',
+    link: 'https://www.neubaukompass.de/neubau/neckar-flair-stuttgart/',
+    address: 'Hofener Straße 46/48, 70372 Stuttgart / Bad Cannstatt',
+    price: '459.900 - 994.900'
+  },
+  {
+    id: 'id22212',
+    title: 'Bauobjekt Wohnpark Ochsenareal',
+    link: 'https://www.neubaukompass.de/neubau/wohnpark-ochsenareal-bad-liebenzell/',
+    address: '75378 Bad Liebenzell',
+    price: '253.050 - 570.850'
+  },
+  {
+    id: 'id22206',
+    title: 'Bauobjekt PROJEKT WALDNAH',
+    link: 'https://www.neubaukompass.de/neubau/projekt-waldnah-pforzheim/',
+    address: 'Pforzheim / Huchenfeld',
+    price: '480.873'
+  },
+  {
+    id: 'id22192',
+    title: 'Bauobjekt Flachter Straße 5',
+    link: 'https://www.neubaukompass.de/neubau/flachter-strasse-5-weissach/',
+    address: 'Flachter Straße 5, 71287 Weissach (Baden-Württemberg)',
+    price: 'Auf Anfrage'
+  },
+  {
+    id: 'id22191',
+    title: 'Bauobjekt Greutweg 52',
+    link: 'https://www.neubaukompass.de/neubau/greutweg-52-unterensingen/',
+    address: 'Greutweg 52, 72669 Unterensingen',
+    price: 'Auf Anfrage'
+  },
+  {
+    id: 'id22189',
+    title: 'Bauobjekt Dinkelstraße 3',
+    link: 'https://www.neubaukompass.de/neubau/dinkelstrasse-3-korntal-muenchingen/',
+    address: 'Dinkelstr. 3, 70185 Korntal-Münchingen',
+    price: '303.000 - 870.000'
+  },
+  {
+    id: 'id22183',
+    title: 'Bauobjekt Wohnen auf den Fildern',
+    link: 'https://www.neubaukompass.de/neubau/wohnen-auf-den-fildern-ostfildern/',
+    address: 'Ruiter Straße 19 / Vordere Hassen 1-3, Ostfildern / Scharnhausen',
+    price: '374.500 - 984.000'
+  },
+  {
+    id: 'id22157',
+    title: 'Bauobjekt Gartenstraße 16',
+    link: 'https://www.neubaukompass.de/neubau/gartenstrasse-16-besigheim/',
+    address: 'Gartenstraße 16, 74354 Besigheim',
+    price: 'Auf Anfrage'
+  },
+  {
+    id: 'id22155',
+    title: 'Bauobjekt Beethovenstraße 3',
+    link: 'https://www.neubaukompass.de/neubau/beethovenstrasse-3-engelsbrand/',
+    address: 'Beethovenstraße 3, 75331 Engelsbrand',
+    price: 'Auf Anfrage'
+  },
+  {
+    id: 'id22087',
+    title: 'Bauobjekt Bei den Linden 18/1',
+    link: 'https://www.neubaukompass.de/neubau/bei-den-linden-laichingen/',
+    address: 'Bei den Linden 18/1, 89150 Laichingen',
+    price: 'Auf Anfrage'
+  },
+  {
+    id: 1979093800,
+    price: '75.000 € VB',
+    title: 'Eine 3 Zimmer Wohnung zum Verkaufen ( in Türkei )',
+    link: 'https://www.ebay-kleinanzeigen.de/s-anzeige/eine-3-zimmer-wohnung-zum-verkaufen-in-tuerkei-/1979093800-275-9335',
+    description: 'Sehr geehrte Interessierte, hiermit möchte meine Wohnung, die sich in der Türkei befindet,...',
+    address: '70374 Bad-Cannstatt',
+    size: '--- m²'
+  },
+  {
+    id: 1978863046,
+    price: '178.000 €',
+    title: 'Sichere Anlageimmobilie - ohne Vermietungsaufwand | Betreutes Wohnen | Pflegeappartements | Seniorengerechtes Wohnen | bei Stuttgart',
+    link: 'https://www.ebay-kleinanzeigen.de/s-anzeige/sichere-anlageimmobilie-ohne-vermietungsaufwand-betreutes-wohnen-pflegeappartements-seniorengerechtes-wohnen-bei-stuttgart/1978863046-196-9289',
+    description: '**✔️ SICHERSTE UND PASSIVSTE FORM VON ANLAGEIMMOBILIEN: EINE BETREUTE WOHNUNG ODER APPARTEMENT IM...',
+    address: '70174 Stuttgart-Mitte',
+    size: '--- m²'
+  },
+  {
+    id: 1124651846,
+    price: '129.000 €',
+    title: 'Solar Invest in eigenständige Photovoltaikanlage mit 7% p.a.',
+    link: 'https://www.ebay-kleinanzeigen.de/s-anzeige/solar-invest-in-eigenstaendige-photovoltaikanlage-mit-7-p-a-/1124651846-198-9290',
+    description: 'Ein PHOTOVOLTAIK DIREKTINVESTMENT in Deutschland zählt aufgrund millionenfach bewährter Technik,...',
+    address: '70197 Stuttgart-West',
+    size: '--- m²'
+  },
+  {
+    id: 1977936019,
+    price: '180.000 €',
+    title: 'klein,fein, ein - Charmante Villa mit 2 SZ auf 505 qm Grundstück',
+    link: 'https://www.ebay-kleinanzeigen.de/s-anzeige/klein-fein-ein-charmante-villa-mit-2-sz-auf-505-qm-grundstueck/1977936019-275-9283',
+    description: 'Auf einem fast ebenen Grundstück mit viel Grün steht diese Villa mit einem Wohnzimmer mit Kamin,...',
+    address: '70173 Stuttgart-Mitte',
+    size: '--- m²'
+  },
+  {
+    id: 1977586306,
+    price: '199.000 € VB',
+    size: '2 Zimmer',
+    title: 'Wohnung in Stuttgart 70374; Burckhardtstr. [sanierungsbedürftig]',
+    link: 'https://www.ebay-kleinanzeigen.de/s-anzeige/wohnung-in-stuttgart-70374-burckhardtstr-sanierungsbeduerftig-/1977586306-203-9335',
+    description: 'Liebe Community, Wir verkaufen eine Wohnung in Stuttgart 70374, Burckhardt Straße Kurz vorab: Die...',
+    address: '70374 Bad-Cannstatt'
+  },
+  {
+    id: 1951288660,
+    price: '84.950 € VB',
+    title: 'Ferienwohnung Antalya/Mahmutlar Erst Bezug Luxus',
+    link: 'https://www.ebay-kleinanzeigen.de/s-anzeige/ferienwohnung-antalya-mahmutlar-erst-bezug-luxus/1951288660-275-9283',
+    description: 'Ferienwohnung Türkei Antalya- Alanya - Mahmutlar Gelegenheit. CEDEN LEBEN ➡️...',
+    address: '70173 Stuttgart-Mitte',
+    size: '--- m²'
+  },
+  {
+    id: 1976674587,
+    price: '120.000 € VB',
+    title: 'Traumhaftes Gartengrundstück in Stuttgart Uhlbach',
+    link: 'https://www.ebay-kleinanzeigen.de/s-anzeige/traumhaftes-gartengrundstueck-in-stuttgart-uhlbach/1976674587-207-9334',
+    description: 'Zum Verkauf steht ein einmaliges Gartengrundstück in einem der schönsten Stadtteile...',
+    address: '70378 Mühlhausen',
+    size: '--- m²'
+  },
+  {
+    id: 1874150968,
+    price: '245.000 € VB',
+    title: 'Interessante und moderne Büroeinheit in Stuttgart Ost-Gaisburg!!',
+    link: 'https://www.ebay-kleinanzeigen.de/s-anzeige/interessante-und-moderne-bueroeinheit-in-stuttgart-ost-gaisburg-/1874150968-277-9282',
+    description: 'Diese zum Verkauf stehenden Büroflächen samt Abstellraum im UG ,befinden sich in einem im Jahre...',
+    address: '70188 Stuttgart-Ost',
+    size: '--- m²'
+  },
+  {
+    id: 1968749883,
+    price: '65.000 € VB',
+    title: 'Idyllisches Gartengrundstück inkl Gartenhaus in Stuttgart',
+    link: 'https://www.ebay-kleinanzeigen.de/s-anzeige/idyllisches-gartengrundstueck-inkl-gartenhaus-in-stuttgart/1968749883-207-19335',
+    description: 'Zum Verkauf kommt unser wunderschönes Gartengrundstück mit Gartenhaus. Am Frauenkopf, Wangener...',
+    address: '70327 Stuttgart-Ost',
+    size: '--- m²'
+  },
+  {
+    id: 1974830265,
+    price: '149.000 €',
+    title: 'Kleine Wohnung mit Balkon',
+    link: 'https://www.ebay-kleinanzeigen.de/s-anzeige/kleine-wohnung-mit-balkon/1974830265-196-9334',
+    description: '# Objektbeschreibung Diese kleine Wohnung befindet sich in Stuttgart-Mühlhausen, am Rande des...',
+    address: '70378 Mühlhausen',
+    size: '--- m²'
+  },
+  {
+    id: 446498694,
+    price: '160.000 €',
+    title: 'Landhaus auf Südkreta',
+    link: 'https://www.ebay-kleinanzeigen.de/s-anzeige/landhaus-auf-suedkreta/446498694-275-9600',
+    description: 'Landhaus auf Südkreta Lagebeschreibung: Das Landhaus befindet sich in Südkreta in dem kleinen Dorf...',
+    address: '70174 Stuttgart-Nord',
+    size: '--- m²'
+  },
+  {
+    id: 1948739328,
+    price: '225.000 €',
+    title: 'Renditeobjekt (Gewerbe ) in Stuttgart Heumaden ca. 100m²',
+    link: 'https://www.ebay-kleinanzeigen.de/s-anzeige/renditeobjekt-gewerbe-in-stuttgart-heumaden-ca-100m-/1948739328-277-9304',
+    description: '\\*\\***Objektbeschreibung :**\\*\\*Gewerbeladen mit ca. 65m² Verkaufs und ca.35m² Ladefläche. Das...',
+    address: '70619 Sillenbuch',
+    size: '--- m²'
+  },
+  {
+    id: 1926294526,
+    price: '219.000 €',
+    title: 'RA-0121 / HELLES REIHENHAUS MIT 4 SZ NUR 200 M VOM SANDSTRAND',
+    link: 'https://www.ebay-kleinanzeigen.de/s-anzeige/ra-0121-helles-reihenhaus-mit-4-sz-nur-200-m-vom-sandstrand/1926294526-275-9283',
+    description: 'n Oliva finden Sie mit Abstand die schönsten Strände der nördlichen Costa Blanca. Das...',
+    address: '70173 Stuttgart-Mitte',
+    size: '--- m²'
+  },
+  {
+    id: 1972190725,
+    price: '106.000 €',
+    title: 'Kostenfreie Mietbetreuung im ersten Jahr - Neubauprojekt Dubai',
+    link: 'https://www.ebay-kleinanzeigen.de/s-anzeige/kostenfreie-mietbetreuung-im-ersten-jahr-neubauprojekt-dubai/1972190725-275-9283',
+    description: 'Wir freuen uns Ihnen mit nachfolgendem Exposé das Neubauprojekt Samana Park Views in Dubai...',
+    address: '70173 Stuttgart-Mitte',
+    size: '--- m²'
+  },
+  {
+    id: 1971889971,
+    price: '100.000 € VB',
+    title: 'Restaurant',
+    link: 'https://www.ebay-kleinanzeigen.de/s-anzeige/restaurant/1971889971-277-9291',
+    description: 'Hiermit vermiete ich im Auftrag ein Neu eingerichtet und Renoviertes Thailändisches Restaurant in...',
+    address: '70190 Stuttgart-Ost',
+    size: '--- m²'
+  },
+  {
+    id: 1961130438,
+    price: '255.000 €',
+    title: 'Ladenlokal/Restaurant',
+    link: 'https://www.ebay-kleinanzeigen.de/s-anzeige/ladenlokal-restaurant/1961130438-277-9307',
+    description: 'Hier wird ein ehemaliges Restaurant im Einkaufszentrum verkauft',
+    address: '70437 Mühlhausen',
+    size: '--- m²'
+  },
+  {
+    id: 1971466493,
+    price: '160.000 € VB',
+    title: '+++Renditestarke Kapitalanlage als Pflegeimmobilie+++',
+    link: 'https://www.ebay-kleinanzeigen.de/s-anzeige/-renditestarke-kapitalanlage-als-pflegeimmobilie-/1971466493-196-9283',
+    description: 'Eine Pflegeimmobilie als Kapitalanlage bietet Investoren eine interessante Alternative zu...',
+    address: '70173 Stuttgart-Mitte',
+    size: '--- m²'
+  },
+  {
+    id: 1971287987,
+    price: '130.000 € VB',
+    title: 'Grundstück in Polen Ausland',
+    link: 'https://www.ebay-kleinanzeigen.de/s-anzeige/grundstueck-in-polen-ausland/1971287987-275-9287',
+    description: 'Tolles Grundstück in Polen ,80 km von Warschau, Erdenebig und Teil bewaldeten. Alle Papiere...',
+    address: '70182 Stuttgart-Mitte',
+    size: '--- m²'
+  },
+  {
+    id: 1970801675,
+    price: '142.500 €',
+    title: 'Räumlichkeiten in Wohnnutzung in Stuttgart West/Nord von Privat!',
+    link: 'https://www.ebay-kleinanzeigen.de/s-anzeige/raeumlichkeiten-in-wohnnutzung-in-stuttgart-west-nord-von-privat-/1970801675-277-9305',
+    description: 'Eine praktische Wohnung für Bescheidene. - Das Wohn/Schlafzimmer bietet genug Platz für eine...',
+    address: '70469 Feuerbach',
+    size: '--- m²'
+  },
+  {
+    id: 1970795227,
+    price: '70.000 €',
+    title: 'Luxusanlage Wohnung in Side außerhalb zu Verkaufen 1 Zimmer',
+    link: 'https://www.ebay-kleinanzeigen.de/s-anzeige/luxusanlage-wohnung-in-side-ausserhalb-zu-verkaufen-1-zimmer/1970795227-275-9283',
+    description: 'Willkommen in einer der schönsten Luxusanlagen im Raum Side (außerhalb) zu verkaufen in 1 Zimmer...',
+    address: '70173 Stuttgart-Mitte',
+    size: '--- m²'
+  },
+  {
+    id: 1943186969,
+    price: '175.000 € VB',
+    title: 'Ferienhaus aufs Insel Brac Kroatien',
+    link: 'https://www.ebay-kleinanzeigen.de/s-anzeige/ferienhaus-aufs-insel-brac-kroatien/1943186969-275-9304',
+    description: '- 2 Familien- Ferienhaus in Supetar, Insel Brac, Nähe bei Split - Wäschekeller extra aussen -...',
+    address: '70619 Sillenbuch',
+    size: '--- m²'
+  },
+  {
+    id: 1970115181,
+    price: '123.456 € VB',
+    size: '3 Zimmer',
+    title: 'Suche Eigentumswohnung in Sonthofen/Oberstdorf',
+    link: 'https://www.ebay-kleinanzeigen.de/s-anzeige/suche-eigentumswohnung-in-sonthofen-oberstdorf/1970115181-196-9283',
+    description: 'Hallo liebe potentielle Nachbarn, hallo liebe Immobilienbesitzer, Sie kennen jemanden, der plant...',
+    address: '70173 Stuttgart-Mitte'
+  },
+  {
+    id: 1969813852,
+    price: '235.000 € VB',
+    title: 'WUNDERBARES TRIPLEX HAUS IN DER TURKEI!!!',
+    link: 'https://www.ebay-kleinanzeigen.de/s-anzeige/wunderbares-triplex-haus-in-der-turkei-/1969813852-275-9592',
+    description: 'Traum Haus in der Turkei!!! Ohne Stress, Wald und Meer!!! Ganz ruhige Gebiet Einkaufen, Bazar...',
+    address: '70499 Weilimdorf',
+    size: '--- m²'
+  },
+  {
+    id: 1969789958,
+    price: '180.000 €',
+    title: 'Haus in Mersin zu verkaufen (6 Zimmer mit Garten, 350 m2)',
+    link: 'https://www.ebay-kleinanzeigen.de/s-anzeige/haus-in-mersin-zu-verkaufen-6-zimmer-mit-garten-350-m2-/1969789958-275-9299',
+    description: 'Typ: Doppelhaushälfte Etagenanzahl: 2 Wohnfläche: 242 m2 Grundstück: 350 m2 Gesamtanzahl-Zimmer:...',
+    address: '70567 Möhringen',
+    size: '--- m²'
+  },
+  {
+    id: 1969763448,
+    price: '250.000 €',
+    title: 'Haus in Montenegro Sutomore zum Verkauf oder Tausch',
+    link: 'https://www.ebay-kleinanzeigen.de/s-anzeige/haus-in-montenegro-sutomore-zum-verkauf-oder-tausch/1969763448-275-9593',
+    description: 'Haus ist ca . 550 Quadratmeter mit 3 Großen Terassen . 800 Meter von einem der Längsten Strände in...',
+    address: '70437 Zuffenhausen',
+    size: '--- m²'
+  },
+  {
+    id: 1678876052,
+    price: '89.000 €',
+    title: 'Corona-Urlaub daheim! Wunderschönes Gartengrundstück in Aussichtslage von Stuttgart',
+    link: 'https://www.ebay-kleinanzeigen.de/s-anzeige/corona-urlaub-daheim-wunderschoenes-gartengrundstueck-in-aussichtslage-von-stuttgart/1678876052-207-9285',
+    description: '# Objektbeschreibung Dieses Gartengrundstück bietet ihnen folgende Highlights: Traumhafte Aussicht...',
+    address: '70186 Stuttgart-Ost',
+    size: '--- m²'
+  },
+  {
+    id: 1968792640,
+    price: '175.000 €',
+    title: 'HAUS IN ISTRIEN',
+    link: 'https://www.ebay-kleinanzeigen.de/s-anzeige/haus-in-istrien/1968792640-275-9281',
+    description: 'Das alleinstehende Haus in Istrien hat eine besammt Wohnflaeche von 70m2 . Dazu kommt noch die...',
+    address: '70180 Stuttgart-Süd',
+    size: '--- m²'
+  },
+  {
+    id: 1968043217,
+    price: '174.900 €',
+    title: 'ERDGESCHOSS-WOHNUNG IN PLAYA DE LA ROMANILLA; ROQUETAS DE MAR',
+    link: 'https://www.ebay-kleinanzeigen.de/s-anzeige/erdgeschoss-wohnung-in-playa-de-la-romanilla-roquetas-de-mar/1968043217-275-9290',
+    description: 'Direkter Zugang zur Promenade und zum Strand 85qm bebaute Fläche 3-Schlafzimmer 2 Bäder mit...',
+    address: '70197 Stuttgart-West',
+    size: '--- m²'
+  },
+  {
+    id: 1136519154,
+    price: '55.700 €',
+    title: '15x20x4,3m Stahlhalle - Gewerbehalle Werkzeugmagazin Lagerhalle',
+    link: 'https://www.ebay-kleinanzeigen.de/s-anzeige/15x20x4-3m-stahlhalle-gewerbehalle-werkzeugmagazin-lagerhalle/1136519154-277-9283',
+    description: 'Benötigen Sie eine Lagerhalle, Thermohalle, Reithalle oder denken Sie an einem individuellen...',
+    address: '70173 Stuttgart-Mitte',
+    size: '--- m²'
+  },
+  {
+    id: 1967200910,
+    price: '240.000 €',
+    title: 'Luxus Villa in der Türkei Istanbul am Meer',
+    link: 'https://www.ebay-kleinanzeigen.de/s-anzeige/luxus-villa-in-der-tuerkei-istanbul-am-meer/1967200910-275-9333',
+    description: 'EIN TRAUMHAFTES PROJEKT MITTEN IN ISTANBUL, IM HERZEN DER STADT Es ist ein unübersehbares Projekt...',
+    address: '70372 Bad-Cannstatt',
+    size: '--- m²'
+  },
+  {
+    id: 1963587319,
+    price: '150.000 €',
+    title: 'Textilreinigung / Wäscherei (krisensicher) zu verkaufen',
+    link: 'https://www.ebay-kleinanzeigen.de/s-anzeige/textilreinigung-waescherei-krisensicher-zu-verkaufen/1963587319-277-9285',
+    description: 'Wir suchen einen Nachfolger für unseren Betrieb. (Seit 1990 in Stuttgart) . Ablöse sind 150.000 €....',
+    address: '70186 Stuttgart-Ost',
+    size: '--- m²'
+  },
+  {
+    id: 1962470848,
+    price: '99.000 €',
+    title: 'Selbstversogerhof mit viel Potenzial Slowenien zu verkaufen',
+    link: 'https://www.ebay-kleinanzeigen.de/s-anzeige/selbstversogerhof-mit-viel-potenzial-slowenien-zu-verkaufen/1962470848-275-9283',
+    description: 'Selbstversogerhof mit Potenzial Slowenien zu verkaufen Kleiner Selbst Versoger Hof mit mega viel...',
+    address: '70173 Stuttgart-Mitte',
+    size: '--- m²'
+  },
+  {
+    id: 1961810703,
+    price: '79.000 €',
+    title: 'Individual Loft by islandloft® | Wohncontainer Tinyhouse Premium',
+    link: 'https://www.ebay-kleinanzeigen.de/s-anzeige/individual-loft-by-islandloft-wohncontainer-tinyhouse-premium/1961810703-208-9284',
+    description: 'Individual Loft by islandloft® |Wohncontainer in kompletter Premium Ausstattung. Der...',
+    address: '70176 Stuttgart-West',
+    size: '--- m²'
+  },
+  {
+    id: 1961086874,
+    price: '270.000 €',
+    title: 'Laden in 70619 Stuttgart, Melonenstr.',
+    link: 'https://www.ebay-kleinanzeigen.de/s-anzeige/laden-in-70619-stuttgart-melonenstr-/1961086874-277-9304',
+    description: '# Objektbeschreibung Eigentumsgewerbefläche, Baujahr: 1971, Aufteilungsplan: 25,...',
+    address: '70619 Sillenbuch',
+    size: '--- m²'
+  },
+  {
+    id: 1960701574,
+    price: '60.000 € VB',
+    title: 'Garten mit Steinhaus und Stromanschluss 3ar 24qm in stuttgart',
+    link: 'https://www.ebay-kleinanzeigen.de/s-anzeige/garten-mit-steinhaus-und-stromanschluss-3ar-24qm-in-stuttgart/1960701574-207-9336',
+    description: 'Weg.. Wangener Kirche Richtung wangener höhenweg auf dem weg bleiben bis ein großes...',
+    address: '70327 Wangen',
+    size: '--- m²'
+  },
+  {
+    id: 1959780966,
+    price: '78.500 €',
+    title: 'Wohnung zu verkaufen in Ilica bei Side Türkei',
+    link: 'https://www.ebay-kleinanzeigen.de/s-anzeige/wohnung-zu-verkaufen-in-ilica-bei-side-tuerkei/1959780966-275-9283',
+    description: 'Unser Standort liegt in der Luft und Natur in den Hügeln von Ilıca. Unsere Wohnung ist 2+1...',
+    address: '70173 Stuttgart-Mitte',
+    size: '--- m²'
+  },
+  {
+    id: 1959173397,
+    price: '200.000 €',
+    size: '1 Zimmer',
+    title: '1 ZW in Stuttgart-Möhringen',
+    link: 'https://www.ebay-kleinanzeigen.de/s-anzeige/1-zw-in-stuttgart-moehringen/1959173397-196-9299',
+    description: 'Schönes Appartement in gepflegtem Wohnobjekt in Möhringen zu verkaufen. Supermärkte und der Bahnhof...',
+    address: '70567 Möhringen'
+  },
+  {
+    id: 1958363377,
+    price: '218.000 € VB',
+    size: '2 Zimmer',
+    title: 'eigentumswohnung wohnung stuttgart ost',
+    link: 'https://www.ebay-kleinanzeigen.de/s-anzeige/eigentumswohnung-wohnung-stuttgart-ost/1958363377-196-9282',
+    description: 'Sympathische 2 Zimmer Wohnung in Stuttgart Ost - Zentrum 2 Zimmer Wohnung mit hohe Wende fast 2.80...',
+    address: '70188 Stuttgart-Ost'
+  },
+  {
+    id: 1958204971,
+    price: '259.000 €',
+    size: '2 Zimmer',
+    title: 'Ihre nächste Kapitalanlage? - 2-Zi ETW in Obertürkheim',
+    link: 'https://www.ebay-kleinanzeigen.de/s-anzeige/ihre-naechste-kapitalanlage-2-zi-etw-in-obertuerkheim/1958204971-196-9601',
+    description: '**Objektbeschreibung** In diesem idyllischen Altbau schlagen Herzen höher. Das im Jahr 1920...',
+    address: '70329 Obertürkheim'
+  },
+  {
+    id: 1957282737,
+    price: '147.000 € VB',
+    title: 'Villa in Antalya Colakli',
+    link: 'https://www.ebay-kleinanzeigen.de/s-anzeige/villa-in-antalya-colakli/1957282737-275-9336',
+    description: 'Antalya/Colakli von Eigentümer 600 Meter zum Meer ( fußläufig ) In einer sehr ruhigen...',
+    address: '70327 Wangen',
+    size: '--- m²'
+  },
+  {
+    id: 131169764,
+    price: '200.000 €',
+    size: '23 m²',
+    title: 'Sanierte (2018) und Vollständig möblierte 1-Zimmerwohnung in Stuttgart-Vaihingen zu verkaufen',
+    link: 'https://www.immobilienscout24.de/expose/131169764',
+    address: 'Robert-Leicht-Straße 155 A, Dachswald, Stuttgart'
+  },
+  {
+    id: 1979461965,
+    price: '249.000 € VB',
+    title: 'KUSADASI / LUXURIÖSE 6 ZIMMER MIT MEERBLICK VILLEN ZUVERKAUFEN',
+    link: 'https://www.ebay-kleinanzeigen.de/s-anzeige/kusadasi-luxurioese-6-zimmer-mit-meerblick-villen-zuverkaufen/1979461965-275-9600',
+    description: 'TÜRKEI / KUSADASI LUXURIÖSE 6 ZIMMER FREISTEHN MIT PANAROMA MEERBLICK VILLEN ZU...',
+    address: '70174 Stuttgart-Nord',
+    size: '--- m²'
+  },
+  {
+    id: 1979425471,
+    price: '216.000 € VB',
+    title: 'KUSADASI / MIT MEERBLICK EXLUSIVE VILLEN ZUVERKAUFEN',
+    link: 'https://www.ebay-kleinanzeigen.de/s-anzeige/kusadasi-mit-meerblick-exlusive-villen-zuverkaufen/1979425471-275-9600',
+    description: 'IN TÜRKEI / KUSADASI 5 ZIMMER FREISTEHEN VILLEN MIT WUNDERSCHÖNE PANORAMA MEERBLICK ZU...',
+    address: '70174 Stuttgart-Nord',
+    size: '--- m²'
+  },
+  {
+    id: 130961288,
+    price: '170.000 €',
+    size: '60 m²',
+    title: 'Exklusive 2-Zimmer-Terrassenwohnung in Wildberg/Wächtersberg',
+    link: 'https://www.immobilienscout24.de/expose/130961288',
+    address: 'Sulzerstraße 84/4, Wildberg, Calw (Kreis)'
+  },
+  {
+    id: 131174009,
+    price: '207.000 €',
+    size: '54 m²',
+    title: 'Exklusive 2-Zimmer-EG-Wohnung mit Balkon in Heilbronn',
+    link: 'https://www.immobilienscout24.de/expose/131174009',
+    address: 'Böckingen, Heilbronn'
+  },
+  {
+    id: 130961351,
+    price: '225.000 €',
+    size: '49,41 m²',
+    title: '2-Zimmerwohnung im Mehrfamilienhaus / Tiefgaragenstellplatz im Preis inbegriffen!',
+    link: 'https://www.immobilienscout24.de/expose/130961351',
+    address: 'Heilbronnerstraße 30, Innenstadt, Esslingen am Neckar'
+  },
+  {
+    id: 1979925743,
+    price: '55.000 € VB',
+    size: '4 Zimmer',
+    title: 'Einfamilienhaus strandnah, saniert in Orchomenos/Peloponnes',
+    link: 'https://www.ebay-kleinanzeigen.de/s-anzeige/einfamilienhaus-strandnah-saniert-in-orchomenos-peloponnes/1979925743-208-9304',
+    description: 'Das Haus liegt ruhig und zugleich zentral im Herzen der historischen Stadt Orchomenos in Arkadien ....',
+    address: '70619 Sillenbuch'
+  },
+  {
+    id: 1979935583,
+    price: '55.000 € VB',
+    size: '3 Zimmer',
+    title: 'Tolle Wohnung in Marokko (Larache )',
+    link: 'https://www.ebay-kleinanzeigen.de/s-anzeige/tolle-wohnung-in-marokko-larache-/1979935583-203-9333',
+    description: 'Tolle Wohnung mit 3 Zimmern und Bad und Toilette, zwei Terrassen Bei fragen nur melden',
+    address: '70372 Bad-Cannstatt'
+  },
+  {
+    id: 46293250,
+    price: '259.000 €',
+    size: 'ca. 54.0 m²',
+    title: 'Interessante Kapitalanlage in Stuttgart Süd - Zwei-Zimmer-Wohnung',
+    address: 'Stuttgart Süd',
+    link: 'https://www.immonet.de/angebot/46293250'
+  },
+  {
+    id: 1979971448,
+    price: '236.000 € VB',
+    title: 'KUSADASI / WUNDERSCHÖNE PANORAMA MEERBLICK VILLEN ZUVERKAUFEN',
+    link: 'https://www.ebay-kleinanzeigen.de/s-anzeige/kusadasi-wunderschoene-panorama-meerblick-villen-zuverkaufen/1979971448-275-9600',
+    description: 'TÜRKEI / KUSADASI MIT PANORAMA MEERBLICK , EIGENE SCHWIMMPOOL 5 ZIMMER...',
+    address: '70174 Stuttgart-Nord',
+    size: '--- m²'
+  },
+  {
+    id: 1979966936,
+    price: '166.000 € VB',
+    title: 'KUSADASI / BESONDERE ARCHITEKTUREN VILLEN ZUVERKAUFEN',
+    link: 'https://www.ebay-kleinanzeigen.de/s-anzeige/kusadasi-besondere-architekturen-villen-zuverkaufen/1979966936-275-9600',
+    description: 'IN TÜRKEI / KUSADASI MEER 800 m & BESONDERE ARCHITEKTUREN VILLEN ZU...',
+    address: '70174 Stuttgart-Nord',
+    size: '--- m²'
+  },
+  {
+    id: 46293397,
+    price: '269.000 €',
+    size: 'ca. 52.0 m²',
+    title: 'Interessante Kapitalanlage in Stuttgart Süd - Zwei-Zimmer-Wohnung',
+    address: 'Stuttgart Süd',
+    link: 'https://www.immonet.de/angebot/46293397'
+  },
+  {
+    id: 131181704,
+    price: '169.000 €',
+    size: '44 m²',
+    title: 'Tolle 2-Zimmerwohnung zu verkaufen!',
+    link: 'https://www.immobilienscout24.de/expose/131181704',
+    address: 'Eningen unter Achalm, Reutlingen (Kreis)'
+  },
+  {
+    id: 131181407,
+    price: '129.000 - 878.000 €',
+    size: '20,00 - 121,00 m²',
+    title: 'Besichtigungstermin nach Vereinbarung',
+    link: 'https://www.immobilienscout24.dehttps://www.immobilienscout24.de/neubau/pflugfelder-immobilien-treuhand-gmbh/hoelderlin-hoefe/95488.html',
+    address: 'Bietigheim-Bissingen, Ludwigsburg (Kreis)'
+  },
+  {
+    id: 131177376,
+    price: '227.000 €',
+    size: '53 m²',
+    title: 'Attraktive, ruhige 2-Zimmer-Eigentumswohnung für Senioren, 53 qm, zentral in Deckenpfronn',
+    link: 'https://www.immobilienscout24.de/expose/131177376',
+    address: 'Am Steinhaus 5, Deckenpfronn, Böblingen (Kreis)'
+  },
+  {
+    id: 1979622783,
+    price: '210.000 €',
+    size: '1 Zimmer',
+    title: 'Erdgeschosswohnung + Tiefgaragenstellplatz PRIVAT',
+    link: 'https://www.ebay-kleinanzeigen.de/s-anzeige/erdgeschosswohnung-tiefgaragenstellplatz-privat/1979622783-196-9592',
+    description: 'Sehr geehrte Damen und Herren, wir verkaufen unsere renovierte Erdgeschosswohnung in Weilimdorf mit...',
+    address: '70499 Weilimdorf'
+  },
+  {
+    id: 131064871,
+    price: '180.000 €',
+    size: '55 m²',
+    title: 'Schnuckelige 2-Zi-Wohnung im Zentrum von Hechingen',
+    link: 'https://www.immobilienscout24.de/expose/131064871',
+    address: 'Kaufhausstraße 11, Hechingen, Zollernalbkreis'
+  },
+  {
+    id: 131188755,
+    price: '148.000 €',
+    size: '35 m²',
+    title: 'Grüne ruhige Ortsrandlage',
+    link: 'https://www.immobilienscout24.de/expose/131188755',
+    address: 'Weil der Stadt, Böblingen (Kreis)'
+  },
+  {
+    id: 130948661,
+    price: '164.000 €',
+    size: '36 m²',
+    title: 'Charmante und exklusive Wohnung sucht neuen Eigentümer',
+    link: 'https://www.immobilienscout24.de/expose/130948661',
+    address: 'Derendingen, Tübingen'
+  },
+  {
+    id: 131186122,
+    price: '185.000 €',
+    size: '56 m²',
+    title: 'Dachgeschosswohnung in 71229 Leonberg, Bietigheimer Str.',
+    link: 'https://www.immobilienscout24.de/expose/131186122',
+    address: 'Leonberg, Böblingen (Kreis)'
+  },
+  {
+    id: '23enp5x',
+    price: '295.000 €',
+    size: '56 m²',
+    title: 'Moderne 2-Zi.-Wohnung nahe Kurpark mit gr. Loggia, Lift und TG-Stellplatz',
+    link: 'https://www.immowelt.de/expose/23enp5x',
+    address: 'Stuttgart (Bad Cannstatt)'
+  },
+  {
+    id: 1980629204,
+    price: '100.000 €',
+    title: 'Thailändisches Restaurant',
+    link: 'https://www.ebay-kleinanzeigen.de/s-anzeige/thailaendisches-restaurant/1980629204-277-9291',
+    description: 'Hiermit vermiete ich im Auftrag ein Neu eingerichtet und Renoviertes Restaurant im Stuttgart...',
+    address: '70190 Stuttgart-Ost',
+    size: '--- m²'
+  },
+  {
+    id: 131189970,
+    price: '129.000 €',
+    size: '56,27 m²',
+    title: 'Barrierefreie 1 Zimmer Eigentumswohnung in der Nordstadt',
+    link: 'https://www.immobilienscout24.de/expose/131189970',
+    address: 'Nordstadt, Pforzheim'
+  },
+  {
+    id: 128709299,
+    price: '235.000 €',
+    size: '56 m²',
+    title: 'Vollständig renovierte, zentrumsnahe 2,5-Zimmer-Wohnung Heilbronn',
+    link: 'https://www.immobilienscout24.de/expose/128709299',
+    address: 'Lauterbachweg 1, Heilbronn, Heilbronn'
+  },
+  {
+    id: 131191280,
+    price: '189.000 €',
+    size: '36 m²',
+    title: 'Optimale Kapitalanlage in Bestlage',
+    link: 'https://www.immobilienscout24.de/expose/131191280',
+    address: 'Mitte, Ludwigsburg'
+  },
+  {
+    id: '23a4t5x',
+    price: '285.000 €',
+    size: '34 m²',
+    title: 'EXKLUSIVES, MÖBLIERTES 1 -ZIMMER- APARTMENT MIT LOGGIA IM BELIEBTEN STUTTGARTER WESTEN',
+    link: 'https://www.immowelt.de/expose/23a4t5x',
+    address: 'Stuttgart (West)'
+  },
+  {
+    id: 130746539,
+    price: '200.000 €',
+    size: '57,67 m²',
+    title: '***SENIORENWOHNUNG*** - Belegung nur durch Senioren ab 60 Jahren möglich',
+    link: 'https://www.immobilienscout24.de/expose/130746539',
+    address: 'Metzingen, Reutlingen (Kreis)'
+  },
+  {
+    id: '238my5x',
+    price: '145.000 €',
+    size: '30 m²',
+    title: 'Eine gute Kapialanlage: Gewerberaum in Wohnnutzung in Stuttgart West/Nord',
+    link: 'https://www.immowelt.de/expose/238my5x',
+    address: 'Stuttgart (Nord)'
+  },
+  {
+    id: 131112742,
+    price: '250.000 €',
+    size: '55 m²',
+    title: 'Sonnige und geräumige 2-Zi. ETW in Sindelfingen, Goldberg',
+    link: 'https://www.immobilienscout24.de/expose/131112742',
+    address: 'Sindelfingen, Böblingen (Kreis)'
+  },
+  {
+    id: 131196588,
+    price: '225.000 €',
+    size: '54 m²',
+    title: 'Geborgenheit unter dem Dach - gepflegte 2,5-Zimmer-Wohnung mit Loggia und Stellplatz',
+    link: 'https://www.immobilienscout24.de/expose/131196588',
+    address: 'Lenningen, Esslingen (Kreis)'
+  },
+  {
+    id: 131194920,
+    price: '185.000 €',
+    size: '56 m²',
+    title: 'WOHNUNG MIT 56 m² WOHNFLÄCHE (inkl. Balkon/Terrasse)',
+    link: 'https://www.immobilienscout24.de/expose/131194920',
+    address: 'Bietigheimer Straße xxxx, Leonberg, Böblingen (Kreis)'
+  },
+  {
+    id: 1981438913,
+    price: '145.000 €',
+    title: 'Eine gute Kapialanlage: Gewerberaum in Wohnnutzung in Stuttgart West/Nord',
+    link: 'https://www.ebay-kleinanzeigen.de/s-anzeige/eine-gute-kapialanlage-gewerberaum-in-wohnnutzung-in-stuttgart-west-nord/1981438913-196-9600',
+    description: '# Objektbeschreibung Bitte beachten: Hier handelt es sich um einen Gewerberaum, der seit 30 Jahren...',
+    address: '70174 Stuttgart-Nord',
+    size: '--- m²'
+  },
+  {
+    id: 131201432,
+    price: '135.000 €',
+    size: '33 m²',
+    title: 'Stilvolle, gepflegte 1-Zimmer-Wohnung mit Balkon und Einbauküche in Göppingen',
+    link: 'https://www.immobilienscout24.de/expose/131201432',
+    address: 'David-Späth-Weg 8-10, Göppingen, Göppingen (Kreis)'
+  },
+  {
+    id: '23a925y',
+    price: '149.000 €',
+    size: '31 m²',
+    title: 'Kleine Wohnung mit Balkon',
+    link: 'https://www.immowelt.de/expose/23a925y',
+    address: 'Stuttgart (Mühlhausen)'
+  },
+  {
+    id: 1841969141,
+    price: '171.000 €',
+    title: 'KAPITALANLAGE im Stuttgarter Osten',
+    link: 'https://www.ebay-kleinanzeigen.de/s-anzeige/kapitalanlage-im-stuttgarter-osten/1841969141-196-9285',
+    description: '# Objektbeschreibung In grüner, naturnaher Umgebung und in einer der gefragtesten Lagen vom...',
+    address: '70186 Stuttgart-Ost',
+    size: '--- m²'
+  },
+  {
+    id: 130859508,
+    price: '238.000 €',
+    size: '66 m²',
+    title: 'Großzügige 2 Zimmer-Wohnung mit schöner Aussicht, provisionsfrei von privat',
+    link: 'https://www.immobilienscout24.de/expose/130859508',
+    address: 'Weberstraße 15, Plüderhausen, Rems-Murr-Kreis'
+  },
+  {
+    id: 131177496,
+    price: '189.000 €',
+    size: '32 m²',
+    title: 'Helle, sanierte 1 Zimmerwohnung mit Balkon am Lindenbachsee in Stuttgart-Weilimdorf zu verkaufen !',
+    link: 'https://www.immobilienscout24.de/expose/131177496',
+    address: 'Weilimdorf'
+  },
+    {
+    id: 'id22291',
+    title: 'Bauobjekt Rieslingstraße 20',
+    link: 'https://www.neubaukompass.de/neubau/rieslingstrasse-20-korb/',
+    address: 'Rieslingstraße 20, 71404 Korb (Württemberg)',
+    price: '499.900'
+  },
+  {
+    id: 'id22290',
+    title: 'Bauobjekt Römerstraße',
+    link: 'https://www.neubaukompass.de/neubau/roemerstrasse-pleidelsheim/',
+    address: 'Römerstraße, 74385 Pleidelsheim',
+    price: 'ab 240.900'
+  },
+  {
+    id: 'id22289',
+    title: 'Bauobjekt Bildäcker 6+8',
+    link: 'https://www.neubaukompass.de/neubau/bildaecker-allmersbach-im-tal/',
+    address: 'Bildäcker 6+8, 71573 Allmersbach im Tal',
+    price: 'ab 502.900'
+  },
+  {
+    id: 'id22279',
+    title: 'Bauobjekt Fuchsweg 29',
+    link: 'https://www.neubaukompass.de/neubau/fuchsweg-29-sindelfingen/',
+    address: 'Fuchsweg 29, 71063 Sindelfingen',
+    price: 'Auf Anfrage'
+  },
+  {
+    id: 'id22270',
+    title: 'Bauobjekt Pichlerstraße 12',
+    link: 'https://www.neubaukompass.de/neubau/pichlerstrasse-wiernsheim/',
+    address: 'Pichlerstraße 12, 75446 Wiernsheim',
+    price: '319.000 - 599.000'
+  },
+  {
+    id: 'id22249',
+    title: 'Bauobjekt Hans Sachs 5',
+    link: 'https://www.neubaukompass.de/neubau/hans-sachs-sachsenheim/',
+    address: 'Hans-Sachs-Straße 5, 74343 Sachsenheim',
+    price: '367.800 - 689.800'
+  },
+  {
+    id: 'id22224',
+    title: 'Bauobjekt neckar flair',
+    link: 'https://www.neubaukompass.de/neubau/neckar-flair-stuttgart/',
+    address: 'Hofener Straße 46/48, 70372 Stuttgart / Bad Cannstatt',
+    price: '459.900 - 994.900'
+  },
+  {
+    id: 'id22212',
+    title: 'Bauobjekt Wohnpark Ochsenareal',
+    link: 'https://www.neubaukompass.de/neubau/wohnpark-ochsenareal-bad-liebenzell/',
+    address: '75378 Bad Liebenzell',
+    price: '253.050 - 570.850'
+  },
+  {
+    id: 'id22206',
+    title: 'Bauobjekt PROJEKT WALDNAH',
+    link: 'https://www.neubaukompass.de/neubau/projekt-waldnah-pforzheim/',
+    address: 'Pforzheim / Huchenfeld',
+    price: '480.873'
+  },
+  {
+    id: 'id22192',
+    title: 'Bauobjekt Flachter Straße 5',
+    link: 'https://www.neubaukompass.de/neubau/flachter-strasse-5-weissach/',
+    address: 'Flachter Straße 5, 71287 Weissach (Baden-Württemberg)',
+    price: 'Auf Anfrage'
+  },
+  {
+    id: 'id22191',
+    title: 'Bauobjekt Greutweg 52',
+    link: 'https://www.neubaukompass.de/neubau/greutweg-52-unterensingen/',
+    address: 'Greutweg 52, 72669 Unterensingen',
+    price: 'Auf Anfrage'
+  },
+  {
+    id: 'id22189',
+    title: 'Bauobjekt Dinkelstraße 3',
+    link: 'https://www.neubaukompass.de/neubau/dinkelstrasse-3-korntal-muenchingen/',
+    address: 'Dinkelstr. 3, 70185 Korntal-Münchingen',
+    price: '303.000 - 870.000',
+    size: '47'
+  },
+  {
+    id: 'id22183',
+    title: 'Bauobjekt Wohnen auf den Fildern',
+    link: 'https://www.neubaukompass.de/neubau/wohnen-auf-den-fildern-ostfildern/',
+    address: 'Ruiter Straße 19 / Vordere Hassen 1-3, Ostfildern / Scharnhausen',
+    price: '374.500 - 984.000'
+  },
+  {
+    id: 'id22157',
+    title: 'Bauobjekt Gartenstraße 16',
+    link: 'https://www.neubaukompass.de/neubau/gartenstrasse-16-besigheim/',
+    address: 'Gartenstraße 16, 74354 Besigheim',
+    price: 'Auf Anfrage'
+  },
+  {
+    id: 'id22155',
+    title: 'Bauobjekt Beethovenstraße 3',
+    link: 'https://www.neubaukompass.de/neubau/beethovenstrasse-3-engelsbrand/',
+    address: 'Beethovenstraße 3, 75331 Engelsbrand',
+    price: 'Auf Anfrage'
+  },
+  {
+    id: 'id22087',
+    title: 'Bauobjekt Bei den Linden 18/1',
+    link: 'https://www.neubaukompass.de/neubau/bei-den-linden-laichingen/',
+    address: 'Bei den Linden 18/1, 89150 Laichingen',
+    price: 'Auf Anfrage'
+  },{
+    id: 1979093800,
+    price: '75.000 € VB',
+    title: 'Eine 3 Zimmer Wohnung zum Verkaufen ( in Türkei )',
+    link: 'https://www.ebay-kleinanzeigen.de/s-anzeige/eine-3-zimmer-wohnung-zum-verkaufen-in-tuerkei-/1979093800-275-9335',
+    description: 'Sehr geehrte Interessierte, hiermit möchte meine Wohnung, die sich in der Türkei befindet,...',
+    address: '70374 Bad-Cannstatt',
+    size: '--- m²'
+  },
+  {
+    id: 1978863046,
+    price: '178.000 €',
+    title: 'Sichere Anlageimmobilie - ohne Vermietungsaufwand | Betreutes Wohnen | Pflegeappartements | Seniorengerechtes Wohnen | bei Stuttgart',
+    link: 'https://www.ebay-kleinanzeigen.de/s-anzeige/sichere-anlageimmobilie-ohne-vermietungsaufwand-betreutes-wohnen-pflegeappartements-seniorengerechtes-wohnen-bei-stuttgart/1978863046-196-9289',
+    description: '**✔️ SICHERSTE UND PASSIVSTE FORM VON ANLAGEIMMOBILIEN: EINE BETREUTE WOHNUNG ODER APPARTEMENT IM...',
+    address: '70174 Stuttgart-Mitte',
+    size: '--- m²'
+  },
+  {
+    id: 1124651846,
+    price: '129.000 €',
+    title: 'Solar Invest in eigenständige Photovoltaikanlage mit 7% p.a.',
+    link: 'https://www.ebay-kleinanzeigen.de/s-anzeige/solar-invest-in-eigenstaendige-photovoltaikanlage-mit-7-p-a-/1124651846-198-9290',
+    description: 'Ein PHOTOVOLTAIK DIREKTINVESTMENT in Deutschland zählt aufgrund millionenfach bewährter Technik,...',
+    address: '70197 Stuttgart-West',
+    size: '--- m²'
+  },
+  {
+    id: 1977936019,
+    price: '180.000 €',
+    title: 'klein,fein, ein - Charmante Villa mit 2 SZ auf 505 qm Grundstück',
+    link: 'https://www.ebay-kleinanzeigen.de/s-anzeige/klein-fein-ein-charmante-villa-mit-2-sz-auf-505-qm-grundstueck/1977936019-275-9283',
+    description: 'Auf einem fast ebenen Grundstück mit viel Grün steht diese Villa mit einem Wohnzimmer mit Kamin,...',
+    address: '70173 Stuttgart-Mitte',
+    size: '--- m²'
+  },
+  {
+    id: 1977586306,
+    price: '199.000 € VB',
+    size: '2 Zimmer',
+    title: 'Wohnung in Stuttgart 70374; Burckhardtstr. [sanierungsbedürftig]',
+    link: 'https://www.ebay-kleinanzeigen.de/s-anzeige/wohnung-in-stuttgart-70374-burckhardtstr-sanierungsbeduerftig-/1977586306-203-9335',
+    description: 'Liebe Community, Wir verkaufen eine Wohnung in Stuttgart 70374, Burckhardt Straße Kurz vorab: Die...',
+    address: '70374 Bad-Cannstatt'
+  },
+  {
+    id: 1951288660,
+    price: '84.950 € VB',
+    title: 'Ferienwohnung Antalya/Mahmutlar Erst Bezug Luxus',
+    link: 'https://www.ebay-kleinanzeigen.de/s-anzeige/ferienwohnung-antalya-mahmutlar-erst-bezug-luxus/1951288660-275-9283',
+    description: 'Ferienwohnung Türkei Antalya- Alanya - Mahmutlar Gelegenheit. CEDEN LEBEN ➡️...',
+    address: '70173 Stuttgart-Mitte',
+    size: '--- m²'
+  },
+  {
+    id: 1976674587,
+    price: '120.000 € VB',
+    title: 'Traumhaftes Gartengrundstück in Stuttgart Uhlbach',
+    link: 'https://www.ebay-kleinanzeigen.de/s-anzeige/traumhaftes-gartengrundstueck-in-stuttgart-uhlbach/1976674587-207-9334',
+    description: 'Zum Verkauf steht ein einmaliges Gartengrundstück in einem der schönsten Stadtteile...',
+    address: '70378 Mühlhausen',
+    size: '--- m²'
+  },
+  {
+    id: 1874150968,
+    price: '245.000 € VB',
+    title: 'Interessante und moderne Büroeinheit in Stuttgart Ost-Gaisburg!!',
+    link: 'https://www.ebay-kleinanzeigen.de/s-anzeige/interessante-und-moderne-bueroeinheit-in-stuttgart-ost-gaisburg-/1874150968-277-9282',
+    description: 'Diese zum Verkauf stehenden Büroflächen samt Abstellraum im UG ,befinden sich in einem im Jahre...',
+    address: '70188 Stuttgart-Ost',
+    size: '--- m²'
+  },
+  {
+    id: 1968749883,
+    price: '65.000 € VB',
+    title: 'Idyllisches Gartengrundstück inkl Gartenhaus in Stuttgart',
+    link: 'https://www.ebay-kleinanzeigen.de/s-anzeige/idyllisches-gartengrundstueck-inkl-gartenhaus-in-stuttgart/1968749883-207-19335',
+    description: 'Zum Verkauf kommt unser wunderschönes Gartengrundstück mit Gartenhaus. Am Frauenkopf, Wangener...',
+    address: '70327 Stuttgart-Ost',
+    size: '--- m²'
+  },
+  {
+    id: 1974830265,
+    price: '149.000 €',
+    title: 'Kleine Wohnung mit Balkon',
+    link: 'https://www.ebay-kleinanzeigen.de/s-anzeige/kleine-wohnung-mit-balkon/1974830265-196-9334',
+    description: '# Objektbeschreibung Diese kleine Wohnung befindet sich in Stuttgart-Mühlhausen, am Rande des...',
+    address: '70378 Mühlhausen',
+    size: '--- m²'
+  },
+  {
+    id: 446498694,
+    price: '160.000 €',
+    title: 'Landhaus auf Südkreta',
+    link: 'https://www.ebay-kleinanzeigen.de/s-anzeige/landhaus-auf-suedkreta/446498694-275-9600',
+    description: 'Landhaus auf Südkreta Lagebeschreibung: Das Landhaus befindet sich in Südkreta in dem kleinen Dorf...',
+    address: '70174 Stuttgart-Nord',
+    size: '--- m²'
+  },
+  {
+    id: 1948739328,
+    price: '225.000 €',
+    title: 'Renditeobjekt (Gewerbe ) in Stuttgart Heumaden ca. 100m²',
+    link: 'https://www.ebay-kleinanzeigen.de/s-anzeige/renditeobjekt-gewerbe-in-stuttgart-heumaden-ca-100m-/1948739328-277-9304',
+    description: '\\*\\***Objektbeschreibung :**\\*\\*Gewerbeladen mit ca. 65m² Verkaufs und ca.35m² Ladefläche. Das...',
+    address: '70619 Sillenbuch',
+    size: '--- m²'
+  },
+  {
+    id: 1926294526,
+    price: '219.000 €',
+    title: 'RA-0121 / HELLES REIHENHAUS MIT 4 SZ NUR 200 M VOM SANDSTRAND',
+    link: 'https://www.ebay-kleinanzeigen.de/s-anzeige/ra-0121-helles-reihenhaus-mit-4-sz-nur-200-m-vom-sandstrand/1926294526-275-9283',
+    description: 'n Oliva finden Sie mit Abstand die schönsten Strände der nördlichen Costa Blanca. Das...',
+    address: '70173 Stuttgart-Mitte',
+    size: '--- m²'
+  },
+  {
+    id: 1972190725,
+    price: '106.000 €',
+    title: 'Kostenfreie Mietbetreuung im ersten Jahr - Neubauprojekt Dubai',
+    link: 'https://www.ebay-kleinanzeigen.de/s-anzeige/kostenfreie-mietbetreuung-im-ersten-jahr-neubauprojekt-dubai/1972190725-275-9283',
+    description: 'Wir freuen uns Ihnen mit nachfolgendem Exposé das Neubauprojekt Samana Park Views in Dubai...',
+    address: '70173 Stuttgart-Mitte',
+    size: '--- m²'
+  },
+  {
+    id: 1971889971,
+    price: '100.000 € VB',
+    title: 'Restaurant',
+    link: 'https://www.ebay-kleinanzeigen.de/s-anzeige/restaurant/1971889971-277-9291',
+    description: 'Hiermit vermiete ich im Auftrag ein Neu eingerichtet und Renoviertes Thailändisches Restaurant in...',
+    address: '70190 Stuttgart-Ost',
+    size: '--- m²'
+  },
+  {
+    id: 1961130438,
+    price: '255.000 €',
+    title: 'Ladenlokal/Restaurant',
+    link: 'https://www.ebay-kleinanzeigen.de/s-anzeige/ladenlokal-restaurant/1961130438-277-9307',
+    description: 'Hier wird ein ehemaliges Restaurant im Einkaufszentrum verkauft',
+    address: '70437 Mühlhausen',
+    size: '--- m²'
+  },
+  {
+    id: 1971466493,
+    price: '160.000 € VB',
+    title: '+++Renditestarke Kapitalanlage als Pflegeimmobilie+++',
+    link: 'https://www.ebay-kleinanzeigen.de/s-anzeige/-renditestarke-kapitalanlage-als-pflegeimmobilie-/1971466493-196-9283',
+    description: 'Eine Pflegeimmobilie als Kapitalanlage bietet Investoren eine interessante Alternative zu...',
+    address: '70173 Stuttgart-Mitte',
+    size: '--- m²'
+  },
+  {
+    id: 1970801675,
+    price: '142.500 €',
+    title: 'Räumlichkeiten in Wohnnutzung in Stuttgart West/Nord von Privat!',
+    link: 'https://www.ebay-kleinanzeigen.de/s-anzeige/raeumlichkeiten-in-wohnnutzung-in-stuttgart-west-nord-von-privat-/1970801675-277-9305',
+    description: 'Eine praktische Wohnung für Bescheidene. - Das Wohn/Schlafzimmer bietet genug Platz für eine...',
+    address: '70469 Feuerbach',
+    size: '--- m²'
+  },
+  {
+    id: 1970795227,
+    price: '70.000 €',
+    title: 'Luxusanlage Wohnung in Side außerhalb zu Verkaufen 1 Zimmer',
+    link: 'https://www.ebay-kleinanzeigen.de/s-anzeige/luxusanlage-wohnung-in-side-ausserhalb-zu-verkaufen-1-zimmer/1970795227-275-9283',
+    description: 'Willkommen in einer der schönsten Luxusanlagen im Raum Side (außerhalb) zu verkaufen in 1 Zimmer...',
+    address: '70173 Stuttgart-Mitte',
+    size: '--- m²'
+  },
+  {
+    id: 1943186969,
+    price: '175.000 € VB',
+    title: 'Ferienhaus aufs Insel Brac Kroatien',
+    link: 'https://www.ebay-kleinanzeigen.de/s-anzeige/ferienhaus-aufs-insel-brac-kroatien/1943186969-275-9304',
+    description: '- 2 Familien- Ferienhaus in Supetar, Insel Brac, Nähe bei Split - Wäschekeller extra aussen -...',
+    address: '70619 Sillenbuch',
+    size: '--- m²'
+  },
+  {
+    id: 1970115181,
+    price: '123.456 € VB',
+    size: '3 Zimmer',
+    title: 'Suche Eigentumswohnung in Sonthofen/Oberstdorf',
+    link: 'https://www.ebay-kleinanzeigen.de/s-anzeige/suche-eigentumswohnung-in-sonthofen-oberstdorf/1970115181-196-9283',
+    description: 'Hallo liebe potentielle Nachbarn, hallo liebe Immobilienbesitzer, Sie kennen jemanden, der plant...',
+    address: '70173 Stuttgart-Mitte'
+  },
+  {
+    id: 1969813852,
+    price: '235.000 € VB',
+    title: 'WUNDERBARES TRIPLEX HAUS IN DER TURKEI!!!',
+    link: 'https://www.ebay-kleinanzeigen.de/s-anzeige/wunderbares-triplex-haus-in-der-turkei-/1969813852-275-9592',
+    description: 'Traum Haus in der Turkei!!! Ohne Stress, Wald und Meer!!! Ganz ruhige Gebiet Einkaufen, Bazar...',
+    address: '70499 Weilimdorf',
+    size: '--- m²'
+  },
+  {
+    id: 1969789958,
+    price: '180.000 €',
+    title: 'Haus in Mersin zu verkaufen (6 Zimmer mit Garten, 350 m2)',
+    link: 'https://www.ebay-kleinanzeigen.de/s-anzeige/haus-in-mersin-zu-verkaufen-6-zimmer-mit-garten-350-m2-/1969789958-275-9299',
+    description: 'Typ: Doppelhaushälfte Etagenanzahl: 2 Wohnfläche: 242 m2 Grundstück: 350 m2 Gesamtanzahl-Zimmer:...',
+    address: '70567 Möhringen',
+    size: '--- m²'
+  },
+  {
+    id: 1969763448,
+    price: '250.000 €',
+    title: 'Haus in Montenegro Sutomore zum Verkauf oder Tausch',
+    link: 'https://www.ebay-kleinanzeigen.de/s-anzeige/haus-in-montenegro-sutomore-zum-verkauf-oder-tausch/1969763448-275-9593',
+    description: 'Haus ist ca . 550 Quadratmeter mit 3 Großen Terassen . 800 Meter von einem der Längsten Strände in...',
+    address: '70437 Zuffenhausen',
+    size: '--- m²'
+  },
+  {
+    id: 1678876052,
+    price: '89.000 €',
+    title: 'Corona-Urlaub daheim! Wunderschönes Gartengrundstück in Aussichtslage von Stuttgart',
+    link: 'https://www.ebay-kleinanzeigen.de/s-anzeige/corona-urlaub-daheim-wunderschoenes-gartengrundstueck-in-aussichtslage-von-stuttgart/1678876052-207-9285',
+    description: '# Objektbeschreibung Dieses Gartengrundstück bietet ihnen folgende Highlights: Traumhafte Aussicht...',
+    address: '70186 Stuttgart-Ost',
+    size: '--- m²'
+  },
+  {
+    id: 1968792640,
+    price: '175.000 €',
+    title: 'HAUS IN ISTRIEN',
+    link: 'https://www.ebay-kleinanzeigen.de/s-anzeige/haus-in-istrien/1968792640-275-9281',
+    description: 'Das alleinstehende Haus in Istrien hat eine besammt Wohnflaeche von 70m2 . Dazu kommt noch die...',
+    address: '70180 Stuttgart-Süd',
+    size: '--- m²'
+  },
+  {
+    id: 1968043217,
+    price: '174.900 €',
+    title: 'ERDGESCHOSS-WOHNUNG IN PLAYA DE LA ROMANILLA; ROQUETAS DE MAR',
+    link: 'https://www.ebay-kleinanzeigen.de/s-anzeige/erdgeschoss-wohnung-in-playa-de-la-romanilla-roquetas-de-mar/1968043217-275-9290',
+    description: 'Direkter Zugang zur Promenade und zum Strand 85qm bebaute Fläche 3-Schlafzimmer 2 Bäder mit...',
+    address: '70197 Stuttgart-West',
+    size: '--- m²'
+  },
+  {
+    id: 1136519154,
+    price: '55.700 €',
+    title: '15x20x4,3m Stahlhalle - Gewerbehalle Werkzeugmagazin Lagerhalle',
+    link: 'https://www.ebay-kleinanzeigen.de/s-anzeige/15x20x4-3m-stahlhalle-gewerbehalle-werkzeugmagazin-lagerhalle/1136519154-277-9283',
+    description: 'Benötigen Sie eine Lagerhalle, Thermohalle, Reithalle oder denken Sie an einem individuellen...',
+    address: '70173 Stuttgart-Mitte',
+    size: '--- m²'
+  },
+  {
+    id: 1967200910,
+    price: '240.000 €',
+    title: 'Luxus Villa in der Türkei Istanbul am Meer',
+    link: 'https://www.ebay-kleinanzeigen.de/s-anzeige/luxus-villa-in-der-tuerkei-istanbul-am-meer/1967200910-275-9333',
+    description: 'EIN TRAUMHAFTES PROJEKT MITTEN IN ISTANBUL, IM HERZEN DER STADT Es ist ein unübersehbares Projekt...',
+    address: '70372 Bad-Cannstatt',
+    size: '--- m²'
+  },
+  {
+    id: 1963587319,
+    price: '150.000 €',
+    title: 'Textilreinigung / Wäscherei (krisensicher) zu verkaufen',
+    link: 'https://www.ebay-kleinanzeigen.de/s-anzeige/textilreinigung-waescherei-krisensicher-zu-verkaufen/1963587319-277-9285',
+    description: 'Wir suchen einen Nachfolger für unseren Betrieb. (Seit 1990 in Stuttgart) . Ablöse sind 150.000 €....',
+    address: '70186 Stuttgart-Ost',
+    size: '--- m²'
+  },
+  {
+    id: 1962470848,
+    price: '99.000 €',
+    title: 'Selbstversogerhof mit viel Potenzial Slowenien zu verkaufen',
+    link: 'https://www.ebay-kleinanzeigen.de/s-anzeige/selbstversogerhof-mit-viel-potenzial-slowenien-zu-verkaufen/1962470848-275-9283',
+    description: 'Selbstversogerhof mit Potenzial Slowenien zu verkaufen Kleiner Selbst Versoger Hof mit mega viel...',
+    address: '70173 Stuttgart-Mitte',
+    size: '--- m²'
+  },
+  {
+    id: 1961810703,
+    price: '79.000 €',
+    title: 'Individual Loft by islandloft® | Wohncontainer Tinyhouse Premium',
+    link: 'https://www.ebay-kleinanzeigen.de/s-anzeige/individual-loft-by-islandloft-wohncontainer-tinyhouse-premium/1961810703-208-9284',
+    description: 'Individual Loft by islandloft® |Wohncontainer in kompletter Premium Ausstattung. Der...',
+    address: '70176 Stuttgart-West',
+    size: '--- m²'
+  },
+  {
+    id: 1961086874,
+    price: '270.000 €',
+    title: 'Laden in 70619 Stuttgart, Melonenstr.',
+    link: 'https://www.ebay-kleinanzeigen.de/s-anzeige/laden-in-70619-stuttgart-melonenstr-/1961086874-277-9304',
+    description: '# Objektbeschreibung Eigentumsgewerbefläche, Baujahr: 1971, Aufteilungsplan: 25,...',
+    address: '70619 Sillenbuch',
+    size: '--- m²'
+  },
+  {
+    id: 1960701574,
+    price: '60.000 € VB',
+    title: 'Garten mit Steinhaus und Stromanschluss 3ar 24qm in stuttgart',
+    link: 'https://www.ebay-kleinanzeigen.de/s-anzeige/garten-mit-steinhaus-und-stromanschluss-3ar-24qm-in-stuttgart/1960701574-207-9336',
+    description: 'Weg.. Wangener Kirche Richtung wangener höhenweg auf dem weg bleiben bis ein großes...',
+    address: '70327 Wangen',
+    size: '--- m²'
+  },
+  {
+    id: 1959173397,
+    price: '200.000 €',
+    size: '1 Zimmer',
+    title: '1 ZW in Stuttgart-Möhringen',
+    link: 'https://www.ebay-kleinanzeigen.de/s-anzeige/1-zw-in-stuttgart-moehringen/1959173397-196-9299',
+    description: 'Schönes Appartement in gepflegtem Wohnobjekt in Möhringen zu verkaufen. Supermärkte und der Bahnhof...',
+    address: '70567 Möhringen'
+  },
+  {
+    id: 1958363377,
+    price: '218.000 € VB',
+    size: '2 Zimmer',
+    title: 'eigentumswohnung wohnung stuttgart ost',
+    link: 'https://www.ebay-kleinanzeigen.de/s-anzeige/eigentumswohnung-wohnung-stuttgart-ost/1958363377-196-9282',
+    description: 'Sympathische 2 Zimmer Wohnung in Stuttgart Ost - Zentrum 2 Zimmer Wohnung mit hohe Wende fast 2.80...',
+    address: '70188 Stuttgart-Ost'
+  },
+  {
+    id: 1958204971,
+    price: '259.000 €',
+    size: '2 Zimmer',
+    title: 'Ihre nächste Kapitalanlage? - 2-Zi ETW in Obertürkheim',
+    link: 'https://www.ebay-kleinanzeigen.de/s-anzeige/ihre-naechste-kapitalanlage-2-zi-etw-in-obertuerkheim/1958204971-196-9601',
+    description: '**Objektbeschreibung** In diesem idyllischen Altbau schlagen Herzen höher. Das im Jahr 1920...',
+    address: '70329 Obertürkheim'
+  },
+  {
+    id: 1957282737,
+    price: '147.000 € VB',
+    title: 'Villa in Antalya Colakli',
+    link: 'https://www.ebay-kleinanzeigen.de/s-anzeige/villa-in-antalya-colakli/1957282737-275-9336',
+    description: 'Antalya/Colakli von Eigentümer 600 Meter zum Meer ( fußläufig ) In einer sehr ruhigen...',
+    address: '70327 Wangen',
+    size: '--- m²'
+  },
+  {
+    id: 130961351,
+    price: '225.000 €',
+    size: '49,41 m²',
+    title: '2-Zimmerwohnung im Mehrfamilienhaus / Tiefgaragenstellplatz im Preis inbegriffen!',
+    link: 'https://www.immobilienscout24.de/expose/130961351',
+    address: 'Heilbronnerstraße 30, Innenstadt, Esslingen am Neckar'
+  },
+  {
+    id: 1979925743,
+    price: '55.000 € VB',
+    size: '4 Zimmer',
+    title: 'Einfamilienhaus strandnah, saniert in Orchomenos/Peloponnes',
+    link: 'https://www.ebay-kleinanzeigen.de/s-anzeige/einfamilienhaus-strandnah-saniert-in-orchomenos-peloponnes/1979925743-208-9304',
+    description: 'Das Haus liegt ruhig und zugleich zentral im Herzen der historischen Stadt Orchomenos in Arkadien ....',
+    address: '70619 Sillenbuch'
+  },
+  {
+    id: 1979935583,
+    price: '55.000 € VB',
+    size: '3 Zimmer',
+    title: 'Tolle Wohnung in Marokko (Larache )',
+    link: 'https://www.ebay-kleinanzeigen.de/s-anzeige/tolle-wohnung-in-marokko-larache-/1979935583-203-9333',
+    description: 'Tolle Wohnung mit 3 Zimmern und Bad und Toilette, zwei Terrassen Bei fragen nur melden',
+    address: '70372 Bad-Cannstatt'
+  },
+  {
+    id: 46293250,
+    price: '259.000 €',
+    size: 'ca. 54.0 m²',
+    title: 'Interessante Kapitalanlage in Stuttgart Süd - Zwei-Zimmer-Wohnung',
+    address: 'Stuttgart Süd',
+    link: 'https://www.immonet.de/angebot/46293250'
+  },
+  {
+    id: 1979971448,
+    price: '236.000 € VB',
+    title: 'KUSADASI / WUNDERSCHÖNE PANORAMA MEERBLICK VILLEN ZUVERKAUFEN',
+    link: 'https://www.ebay-kleinanzeigen.de/s-anzeige/kusadasi-wunderschoene-panorama-meerblick-villen-zuverkaufen/1979971448-275-9600',
+    description: 'TÜRKEI / KUSADASI MIT PANORAMA MEERBLICK , EIGENE SCHWIMMPOOL 5 ZIMMER...',
+    address: '70174 Stuttgart-Nord',
+    size: '--- m²'
+  },
+  {
+    id: 1979966936,
+    price: '166.000 € VB',
+    title: 'KUSADASI / BESONDERE ARCHITEKTUREN VILLEN ZUVERKAUFEN',
+    link: 'https://www.ebay-kleinanzeigen.de/s-anzeige/kusadasi-besondere-architekturen-villen-zuverkaufen/1979966936-275-9600',
+    description: 'IN TÜRKEI / KUSADASI MEER 800 m & BESONDERE ARCHITEKTUREN VILLEN ZU...',
+    address: '70174 Stuttgart-Nord',
+    size: '--- m²'
+  },
+  {
+    id: 46293397,
+    price: '269.000 €',
+    size: 'ca. 52.0 m²',
+    title: 'Interessante Kapitalanlage in Stuttgart Süd - Zwei-Zimmer-Wohnung',
+    address: 'Stuttgart Süd',
+    link: 'https://www.immonet.de/angebot/46293397'
+  },
+  {
+    id: 131181704,
+    price: '169.000 €',
+    size: '44 m²',
+    title: 'Tolle 2-Zimmerwohnung zu verkaufen!',
+    link: 'https://www.immobilienscout24.de/expose/131181704',
+    address: 'Eningen unter Achalm, Reutlingen (Kreis)'
+  },
+  {
+    id: 131181407,
+    price: '129.000 - 878.000 €',
+    size: '20,00 - 121,00 m²',
+    title: 'Besichtigungstermin nach Vereinbarung',
+    link: 'https://www.immobilienscout24.dehttps://www.immobilienscout24.de/neubau/pflugfelder-immobilien-treuhand-gmbh/hoelderlin-hoefe/95488.html',
+    address: 'Bietigheim-Bissingen, Ludwigsburg (Kreis)'
+  },
+  {
+    id: 131177376,
+    price: '227.000 €',
+    size: '53 m²',
+    title: 'Attraktive, ruhige 2-Zimmer-Eigentumswohnung für Senioren, 53 qm, zentral in Deckenpfronn',
+    link: 'https://www.immobilienscout24.de/expose/131177376',
+    address: 'Am Steinhaus 5, Deckenpfronn, Böblingen (Kreis)'
+  },
+  {
+    id: 1979622783,
+    price: '210.000 €',
+    size: '1 Zimmer',
+    title: 'Erdgeschosswohnung + Tiefgaragenstellplatz PRIVAT',
+    link: 'https://www.ebay-kleinanzeigen.de/s-anzeige/erdgeschosswohnung-tiefgaragenstellplatz-privat/1979622783-196-9592',
+    description: 'Sehr geehrte Damen und Herren, wir verkaufen unsere renovierte Erdgeschosswohnung in Weilimdorf mit...',
+    address: '70499 Weilimdorf'
+  },
+  {
+    id: 131064871,
+    price: '180.000 €',
+    size: '55 m²',
+    title: 'Schnuckelige 2-Zi-Wohnung im Zentrum von Hechingen',
+    link: 'https://www.immobilienscout24.de/expose/131064871',
+    address: 'Kaufhausstraße 11, Hechingen, Zollernalbkreis'
+  },
+  {
+    id: 131188755,
+    price: '148.000 €',
+    size: '35 m²',
+    title: 'Grüne ruhige Ortsrandlage',
+    link: 'https://www.immobilienscout24.de/expose/131188755',
+    address: 'Weil der Stadt, Böblingen (Kreis)'
+  },
+  {
+    id: 130948661,
+    price: '164.000 €',
+    size: '36 m²',
+    title: 'Charmante und exklusive Wohnung sucht neuen Eigentümer',
+    link: 'https://www.immobilienscout24.de/expose/130948661',
+    address: 'Derendingen, Tübingen'
+  },
+  {
+    id: 131186122,
+    price: '185.000 €',
+    size: '56 m²',
+    title: 'Dachgeschosswohnung in 71229 Leonberg, Bietigheimer Str.',
+    link: 'https://www.immobilienscout24.de/expose/131186122',
+    address: 'Leonberg, Böblingen (Kreis)'
+  },
+  {
+    id: '23enp5x',
+    price: '295.000 €',
+    size: '56 m²',
+    title: 'Moderne 2-Zi.-Wohnung nahe Kurpark mit gr. Loggia, Lift und TG-Stellplatz',
+    link: 'https://www.immowelt.de/expose/23enp5x',
+    address: 'Stuttgart (Bad Cannstatt)'
+  },
+  {
+    id: 1980629204,
+    price: '100.000 €',
+    title: 'Thailändisches Restaurant',
+    link: 'https://www.ebay-kleinanzeigen.de/s-anzeige/thailaendisches-restaurant/1980629204-277-9291',
+    description: 'Hiermit vermiete ich im Auftrag ein Neu eingerichtet und Renoviertes Restaurant im Stuttgart...',
+    address: '70190 Stuttgart-Ost',
+    size: '--- m²'
+  },
+  {
+    id: 131189970,
+    price: '129.000 €',
+    size: '56,27 m²',
+    title: 'Barrierefreie 1 Zimmer Eigentumswohnung in der Nordstadt',
+    link: 'https://www.immobilienscout24.de/expose/131189970',
+    address: 'Nordstadt, Pforzheim'
+  },
+  {
+    id: 128709299,
+    price: '235.000 €',
+    size: '56 m²',
+    title: 'Vollständig renovierte, zentrumsnahe 2,5-Zimmer-Wohnung Heilbronn',
+    link: 'https://www.immobilienscout24.de/expose/128709299',
+    address: 'Lauterbachweg 1, Heilbronn, Heilbronn'
+  },
+  {
+    id: 131191280,
+    price: '189.000 €',
+    size: '36 m²',
+    title: 'Optimale Kapitalanlage in Bestlage',
+    link: 'https://www.immobilienscout24.de/expose/131191280',
+    address: 'Mitte, Ludwigsburg'
+  },
+  {
+    id: '23a4t5x',
+    price: '285.000 €',
+    size: '34 m²',
+    title: 'EXKLUSIVES, MÖBLIERTES 1 -ZIMMER- APARTMENT MIT LOGGIA IM BELIEBTEN STUTTGARTER WESTEN',
+    link: 'https://www.immowelt.de/expose/23a4t5x',
+    address: 'Stuttgart (West)'
+  },
+  {
+    id: 130746539,
+    price: '200.000 €',
+    size: '57,67 m²',
+    title: '***SENIORENWOHNUNG*** - Belegung nur durch Senioren ab 60 Jahren möglich',
+    link: 'https://www.immobilienscout24.de/expose/130746539',
+    address: 'Metzingen, Reutlingen (Kreis)'
+  },
+  {
+    id: '238my5x',
+    price: '145.000 €',
+    size: '30 m²',
+    title: 'Eine gute Kapialanlage: Gewerberaum in Wohnnutzung in Stuttgart West/Nord',
+    link: 'https://www.immowelt.de/expose/238my5x',
+    address: 'Stuttgart (Nord)'
+  },{
+    id: 131112742,
+    price: '250.000 €',
+    size: '55 m²',
+    title: 'Sonnige und geräumige 2-Zi. ETW in Sindelfingen, Goldberg',
+    link: 'https://www.immobilienscout24.de/expose/131112742',
+    address: 'Sindelfingen, Böblingen (Kreis)'
+  },
+  {
+    id: 131196588,
+    price: '225.000 €',
+    size: '54 m²',
+    title: 'Geborgenheit unter dem Dach - gepflegte 2,5-Zimmer-Wohnung mit Loggia und Stellplatz',
+    link: 'https://www.immobilienscout24.de/expose/131196588',
+    address: 'Lenningen, Esslingen (Kreis)'
+  },
+  {
+    id: 131194920,
+    price: '185.000 €',
+    size: '56 m²',
+    title: 'WOHNUNG MIT 56 m² WOHNFLÄCHE (inkl. Balkon/Terrasse)',
+    link: 'https://www.immobilienscout24.de/expose/131194920',
+    address: 'Bietigheimer Straße xxxx, Leonberg, Böblingen (Kreis)'
+  },
+  {
+    id: 1981438913,
+    price: '145.000 €',
+    title: 'Eine gute Kapialanlage: Gewerberaum in Wohnnutzung in Stuttgart West/Nord',
+    link: 'https://www.ebay-kleinanzeigen.de/s-anzeige/eine-gute-kapialanlage-gewerberaum-in-wohnnutzung-in-stuttgart-west-nord/1981438913-196-9600',
+    description: '# Objektbeschreibung Bitte beachten: Hier handelt es sich um einen Gewerberaum, der seit 30 Jahren...',
+    address: '70174 Stuttgart-Nord',
+    size: '--- m²'
+  },
+  {
+    id: 131201432,
+    price: '135.000 €',
+    size: '33 m²',
+    title: 'Stilvolle, gepflegte 1-Zimmer-Wohnung mit Balkon und Einbauküche in Göppingen',
+    link: 'https://www.immobilienscout24.de/expose/131201432',
+    address: 'David-Späth-Weg 8-10, Göppingen, Göppingen (Kreis)'
+  },
+  {
+    id: '23a925y',
+    price: '149.000 €',
+    size: '31 m²',
+    title: 'Kleine Wohnung mit Balkon',
+    link: 'https://www.immowelt.de/expose/23a925y',
+    address: 'Stuttgart (Mühlhausen)'
+  },
+  {
+    id: 1841969141,
+    price: '171.000 €',
+    title: 'KAPITALANLAGE im Stuttgarter Osten',
+    link: 'https://www.ebay-kleinanzeigen.de/s-anzeige/kapitalanlage-im-stuttgarter-osten/1841969141-196-9285',
+    description: '# Objektbeschreibung In grüner, naturnaher Umgebung und in einer der gefragtesten Lagen vom...',
+    address: '70186 Stuttgart-Ost',
+    size: '--- m²'
+  },
+  {
+    id: 130859508,
+    price: '238.000 €',
+    size: '66 m²',
+    title: 'Großzügige 2 Zimmer-Wohnung mit schöner Aussicht, provisionsfrei von privat',
+    link: 'https://www.immobilienscout24.de/expose/130859508',
+    address: 'Weberstraße 15, Plüderhausen, Rems-Murr-Kreis'
+  },
+  {
+    id: 131177496,
+    price: '189.000 €',
+    size: '32 m²',
+    title: 'Helle, sanierte 1 Zimmerwohnung mit Balkon am Lindenbachsee in Stuttgart-Weilimdorf zu verkaufen !',
+    link: 'https://www.immobilienscout24.de/expose/131177496',
+    address: 'Weilimdorf'
+  },
+  {
+    id: '23vz55y',
+    price: '155.000 €',
+    size: '34 m²',
+    title: '1-Zimmer-Wohnung mit Pkw-Stellplatz',
+    link: 'https://www.immowelt.de/expose/23vz55y',
+    address: 'Stuttgart (Hedelfingen)'
+  },
+  {
+    id: '23tu55y',
+    price: '205.000 €',
+    size: '61 m²',
+    title: 'Zwangsversteigerung Wohnung, Dessauer Straße in Stuttgart',
+    link: 'https://www.immowelt.de/expose/23tu55y',
+    address: 'Stuttgart (Bad Cannstatt)'
+  },
+  {
+    id: '23e885y',
+    price: '79.000 €',
+    size: '63 m²',
+    title: 'Eigentumswohnung in 70439 Stuttgart, Geisinger Weg',
+    link: 'https://www.immowelt.de/expose/23e885y',
+    address: 'Stuttgart (Stammheim)'
+  },
+  {
+    id: '23t785y',
+    price: '155.000 €',
+    size: '34 m²',
+    title: 'Erdgeschosswohnung in 70329 Stuttgart, Heimgartenstr.',
+    link: 'https://www.immowelt.de/expose/23t785y',
+    address: 'Stuttgart (Hedelfingen)'
+  },
+  {
+    id: '23s685y',
+    price: '205.000 €',
+    size: '61 m²',
+    title: 'Etagenwohnung in 70376 Stuttgart, Dessauer Str.',
+    link: 'https://www.immowelt.de/expose/23s685y',
+    address: 'Stuttgart (Bad Cannstatt)'
+  },
+  {
+    id: 46309716,
+    price: 'Verkehrswert 225.000 €',
+    size: 'ca. 77.0 m²',
+    title: 'Dachgeschosswohnung in 70374 Stuttgart, Schmidener Str.',
+    address: 'Stuttgart Bad Cannstatt',
+    link: 'https://www.immonet.de/angebot/46309716'
+  },
+  {
+    id: 46309634,
+    price: 'Verkehrswert 217.000 €',
+    size: 'ca. 125.0 m²',
+    title: 'Einfamilienhaus in 70439 Stuttgart, Freihofstr.',
+    address: 'Stuttgart Stammheim',
+    link: 'https://www.immonet.de/angebot/46309634'
+  },
+  {
+    id: 46309379,
+    price: 'Verkehrswert 155.000 €',
+    size: 'ca. 34.0 m²',
+    title: '1-Zimmer-Wohnung mit Pkw-Stellplatz',
+    address: 'Stuttgart Hedelfingen',
+    link: 'https://www.immonet.de/angebot/46309379'
+  },
+  {
+    id: 46309077,
+    price: 'Verkehrswert 225.000 €',
+    size: 'ca. 57.0 m²',
+    title: 'Zwangsversteigerung Wohnung, Schmidener Straße in Stuttgart',
+    address: 'Stuttgart Bad Cannstatt',
+    link: 'https://www.immonet.de/angebot/46309077'
+  },
+  {
+    id: 46308984,
+    price: 'Verkehrswert 173.000 €',
+    size: 'ca. 55.0 m²',
+    title: 'Zwangsversteigerung Wohnung, Oppelner Straße in Stuttgart',
+    address: 'Stuttgart Bad Cannstatt',
+    link: 'https://www.immonet.de/angebot/46308984'
+  },
+  {
+    id: 'id22332',
+    title: 'Bauobjekt Freudental 3KLANG',
+    link: 'https://www.neubaukompass.de/neubau/freudental-3klang/',
+    address: 'Elsbeerenring 4,6 & 8, 74392 Freudental',
+    price: '223.000 - 569.000'
+  },
+  {
+    id: 130999225,
+    price: '223.000 - 569.000 €',
+    size: '40,66 - 107,99 m²',
+    title: '3KLANG Freudental-Alleenfeld',
+    link: 'https://www.immobilienscout24.dehttps://www.immobilienscout24.de/neubau/regio-bau-herrmann-gmbh/3-klang-freudental/105335.html',
+    address: 'Elsbeerenring 8, Freudental, Ludwigsburg (Kreis)'
+  },
+  {
+    id: 131207872,
+    price: '239.000 €',
+    size: '90 m²',
+    title: 'Zwangsversteigerung am 11.02.2022 um 11.00 Uhr in Stuttgart !!!',
+    link: 'https://www.immobilienscout24.de/expose/131207872',
+    address: 'Böblingen, Böblingen (Kreis)'
+  },
+  {
+    id: 1982624625,
+    price: '60.000 € VB',
+    title: 'Immobilien in Antalya side kumköy Wohnung',
+    link: 'https://www.ebay-kleinanzeigen.de/s-anzeige/immobilien-in-antalya-side-kumkoey-wohnung/1982624625-275-9336',
+    description: 'Hier haben Sie die einmalige Möglichkeit ein Schnäppchen zu machen! Als Kapitel Anlage bestens...',
+    address: '70327 Wangen',
+    size: '--- m²'
+  },
+  {
+    id: 131211600,
+    price: '190.000 €',
+    size: '59,2 m²',
+    title: 'kompakt, praktisch, 2021 renovierte 3 Zi.-OG-Wohnung ,Gomaringen',
+    link: 'https://www.immobilienscout24.de/expose/131211600',
+    address: 'Brühlstr. 5, Gomaringen, Tübingen (Kreis)'
+  },
+  {
+    id: 131211614,
+    price: '250.000 €',
+    size: '52 m²',
+    title: 'Wohnen Sie schön! - 2018 modernisierte 2-Zi.-Wohnung in Böblingen mit EBK, Balkon und Garage!',
+    link: 'https://www.immobilienscout24.de/expose/131211614',
+    address: 'Böblingen, Böblingen (Kreis)'
+  },
+  {
+    id: 130772673,
+    price: '219.000 €',
+    size: '87 m²',
+    title: '3,5 Zimmer DG Wohnung mitten im Herzen von Murrhardt sofort bezugsfrei',
+    link: 'https://www.immobilienscout24.de/expose/130772673',
+    address: 'Murrhardt, Rems-Murr-Kreis'
+  },
+  {
+    id: 131210649,
+    price: '215.000 €',
+    size: '65 m²',
+    title: 'Sehr schöne 3 Zimmer-Wohnung!',
+    link: 'https://www.immobilienscout24.de/expose/131210649',
+    address: 'Bad Friedrichshall, Heilbronn (Kreis)'
+  },
+  {
+    id: 131210472,
+    price: '219.900 €',
+    size: '54 m²',
+    title: 'Göppingen-Faurndau 3 Zimmer - Dachgeschoß - Wohnung mit optimalem Grundriss Provisionsfrei',
+    link: 'https://www.immobilienscout24.de/expose/131210472',
+    address: 'Göppingen, Göppingen (Kreis)'
+  }
+]
