@@ -1,0 +1,55 @@
+Found entry from service kleinanzeigen, Job: Fssca09D2i5_OXBl65wZP: [
+  {
+    id: 1984173726,
+    price: '150.000 €',
+    title: '3 Zimmer Wohnung am Meer zu verkaufen (Kroatien/Zadar)',
+    link: 'https://www.ebay-kleinanzeigen.de/s-anzeige/3-zimmer-wohnung-am-meer-zu-verkaufen-kroatien-zadar-/1984173726-275-9283',
+    description: 'Wir verkaufen eine Wohnung die auch als Hauptwohnsitz für eine Auswanderer Familie geeignet ist....',
+    address: '70173 Stuttgart-Mitte',
+    size: '--- m²'
+  }
+]
+Found entry from service immoscout, Job: Fssca09D2i5_OXBl65wZP: [
+  {
+    id: 131224782,
+    price: '185.000 €',
+    size: '64,6 m²',
+    title: 'Schicke gepflegte Dachgeschoßwohnung in Knittlingen',
+    link: 'https://www.immobilienscout24.de/expose/131224782',
+    address: 'Knittlingen, Enzkreis'
+  }
+]
+Found entry from service immoscout, Job: Fssca09D2i5_OXBl65wZP: [
+  {
+    id: 131228449,
+    price: '209.000 €',
+    size: '66 m²',
+    title: 'Bereits vermietet: helle und gut geschnittene - 2,5-Zi. Whg. inkl. EBK in Leonberg zu verkaufen!',
+    link: 'https://www.immobilienscout24.de/expose/131228449',
+    address: 'Leonberg, Böblingen (Kreis)'
+  },
+  {
+    id: 131228360,
+    price: '250.000 €',
+    size: '67,51 m²',
+    title: 'Solide vermietete 3-Zimmerwohnung mit lebenslangem Wohnrecht zur KAPITALANLAGE',
+    link: 'https://www.immobilienscout24.de/expose/131228360',
+    address: 'Lenbachstraße 17, Nürtingen, Esslingen (Kreis)'
+  },
+  {
+    id: 131228357,
+    price: '206.700 €',
+    size: '49,21 m²',
+    title: 'KAPITALANLAGE ! Vermietete Gartengeschoßwohnung',
+    link: 'https://www.immobilienscout24.de/expose/131228357',
+    address: 'Schießrainweg 8, Weil der Stadt, Böblingen (Kreis)'
+  },
+  {
+    id: 131228355,
+    price: '219.000 €',
+    size: '63,61 m²',
+    title: 'Renovierungsbedürftige 3-Zimmerdachgeschoßwohnung in großer Wohnanlage',
+    link: 'https://www.immobilienscout24.de/expose/131228355',
+    address: 'Schießrainweg 18, Weil der Stadt, Böblingen (Kreis)'
+  }
+]   
