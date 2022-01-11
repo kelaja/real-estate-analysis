@@ -1,232 +1,163 @@
-[ {
-    id: 131216815,
-    price: '175.000 €',
-    size: '60,34 m²',
-    title: 'Panoramablick über Dächer und Felder!!',
-    link: 'https://www.immobilienscout24.de/expose/131216815',
-    address: 'Haiterbach, Calw (Kreis)'
+[
+  {
+    id: '23c555z',
+    price: '300.000 €',
+    size: '51 m²',
+    title: 'Ideal für Tierfreunde und Naturliebhaber - 2-Zi-EG-ETW mit Garten in super Lage in S-Kaltental',
+    link: 'https://www.immowelt.de/expose/23c555z',
+    address: 'Stuttgart (Kaltental)'
   },
   {
-    id: 131216670,
-    price: '239.999 €',
-    size: '57 m²',
-    title: '*NEU* Gemütliche 2,5-Zi-Maisonette-Wohnung in Pforzheim-Nordstadt',
-    link: 'https://www.immobilienscout24.de/expose/131216670',
-    address: 'Nordstadt, Pforzheim'
+    id: 1986287756,
+    price: '199.000 €',
+    size: '2 Zimmer',
+    title: 'Erbbaurecht: Tolle 2-Zimmer Wohnung mit Balkon',
+    link: 'https://www.ebay-kleinanzeigen.de/s-anzeige/erbbaurecht-tolle-2-zimmer-wohnung-mit-balkon/1986287756-196-9307',
+    description: '# Objektbeschreibung Die gut geschnittene 2-Zimmer Wohnung befindet sich in einem gepflegten...',
+    address: '70437 Mühlhausen'
   },
   {
-    id: 131215238,
-    price: '228.000 €',
-    size: '59 m²',
-    title: 'Gut aufgeteilte 2-Zimmer Wohnung mit schönem Blick in den Garten',
-    link: 'https://www.immobilienscout24.de/expose/131215238',
-    address: 'Höhenstrasse 106, Wendlingen am Neckar, Esslingen (Kreis)'
+    id: 131244928,
+    price: '141.000 €',
+    size: '53,21 m²',
+    title: 'WOHNUNG MIT 53.21 m² WOHNFLÄCHE (inkl. Balkon/Terrasse)',
+    link: 'https://www.immobilienscout24.de/expose/131244928',
+    address: 'Adlerstraße XXX, Herrenberg, Böblingen (Kreis)'
   },
   {
-    id: 118002714,
-    price: '145.000 €',
-    size: '50 m²',
-    title: 'Schöne, gepflegte 2-Zimmer-Wohnung zum Kauf in Plüderhausen',
-    link: 'https://www.immobilienscout24.de/expose/118002714',
-    address: 'Plüderhausen, Rems-Murr-Kreis'
+    id: 131244901,
+    price: '71.000 €',
+    size: '78 m²',
+    title: 'WOHNUNG MIT 78 m² WOHNFLÄCHE',
+    link: 'https://www.immobilienscout24.de/expose/131244901',
+    address: 'Albert-Schweitzer-Straße XXX, Bretten, Karlsruhe (Kreis)'
   },
   {
-    id: 131214196,
-    price: '215.000 €',
-    size: '40 m²',
-    title: 'Geschmackvolle DG-Wohnung mit zwei Räumen und Einbauküche in Rems-Murr-Kreis',
-    link: 'https://www.immobilienscout24.de/expose/131214196',
-    address: 'Waiblingen, Rems-Murr-Kreis'
-  },
-  {
-    id: 131204933,
+    id: 131243266,
     price: '189.000 €',
-    size: '44 m²',
-    title: 'Kapitalanlage 2 Zi. DG/Balkon',
-    link: 'https://www.immobilienscout24.de/expose/131204933',
-    address: 'Filderstadt, Esslingen (Kreis)'
-  },
-  {
-    id: 129842735,
-    price: '195.000 €',
-    size: '51,2 m²',
-    title: 'Ruhig gelegene Wohnung mit Balkon und Stellplatz, zentrumsnah! -Kapitalanlage-',
-    link: 'https://www.immobilienscout24.de/expose/129842735',
-    address: 'Heilbronn, Heilbronn'
-  },
-  {
-    id: 131216744,
-    price: '161.000 €',
-    size: '32 m²',
-    title: 'Schöne Ruhige Wohnung',
-    link: 'https://www.immobilienscout24.de/expose/131216744',
-    address: 'Kleines Egart 14, Sindelfingen, Böblingen (Kreis)'
-  },
-  {
-    id: 131221459,
-    price: '230.000 €',
     size: '56 m²',
-    title: 'Helle 2-Zimmer-Wohnung mit Balkon in Schorndorf',
-    link: 'https://www.immobilienscout24.de/expose/131221459',
-    address: 'Hungerbühlstr. 24, Schorndorf, Rems-Murr-Kreis'
+    title: 'Kapitalanlage- Niefern2- Zimmer Dachgeschoss-Wohnung',
+    link: 'https://www.immobilienscout24.de/expose/131243266',
+    address: 'Sofienstr. 4, Niefern-Öschelbronn, Enzkreis'
   },
   {
-    id: 131221378,
-    price: '145.000 €',
-    size: '50 m²',
-    title: 'nette 2-Zimmer-Wohnung in Plüderhausen',
-    link: 'https://www.immobilienscout24.de/expose/131221378',
-    address: 'Plüderhausen, Rems-Murr-Kreis'
+    id: 131241977,
+    price: '165.000 €',
+    size: '37 m²',
+    title: 'Tolle 1-Zimmer Kapitalanlage in Weinstadt',
+    link: 'https://www.immobilienscout24.de/expose/131241977',
+    address: 'Weinstadt, Rems-Murr-Kreis'
   },
   {
-    id: 131221264,
-    price: '140.000 €',
-    size: '40 m²',
-    title: 'Fleckensteinstraße 11, 74206 Bad',
-    link: 'https://www.immobilienscout24.de/expose/131221264',
-    address: 'Fleckensteinstraße 11, Bad Wimpfen, Heilbronn (Kreis)'
+    id: 131241937,
+    price: '199.000 €',
+    size: '71,8 m²',
+    title: 'GROSSZÜGIGE 2 ZIMMER WOHNUNG IN GEPFLEGTER WOHNANLAGE',
+    link: 'https://www.immobilienscout24.de/expose/131241937',
+    address: 'Nagold, Calw (Kreis)'
   },
   {
-    id: 130901458,
-    price: '223.000 €',
-    size: '43 m²',
-    title: 'Ihre neue Wohnung! Für Anleger und Eigennutzer',
-    link: 'https://www.immobilienscout24.de/expose/130901458',
-    address: 'Fellbach, Rems-Murr-Kreis'
+    id: 131239913,
+    price: '220.000 €',
+    size: '51 m²',
+    title: 'Gemütliche Wohnung in zentraler Lage von Grafenau-Döffingen',
+    link: 'https://www.immobilienscout24.de/expose/131239913',
+    address: 'Grafenau, Böblingen (Kreis)'
   },
   {
-    id: 114484941,
-    price: '225.000 €',
-    size: '50 m²',
-    title: '210.000 €, 50 m², 2 Zimmer + EBK und Bad und separatem Abstellraum und Kellerraum',
-    link: 'https://www.immobilienscout24.de/expose/114484941',
-    address: 'Villastraße 13, Walheim, Ludwigsburg (Kreis)'
+    id: 131239120,
+    price: '208.000 €',
+    size: '45 m²',
+    title: '1½ Zimmer-Apartment in Ludwigsburg-Neckarweihingen mit Südbalkon und Blick ins Grüne',
+    link: 'https://www.immobilienscout24.de/expose/131239120',
+    address: 'Neckarweihingen, Ludwigsburg'
   },
   {
-    id: 1983706443,
-    price: '240.000 €',
-    size: '3 Zimmer',
-    title: '3 Zimmer Dachgeschoßwohnung zu verkaufen',
-    link: 'https://www.ebay-kleinanzeigen.de/s-anzeige/3-zimmer-dachgeschosswohnung-zu-verkaufen/1983706443-196-20323',
-    description: 'Verkaufe eine Wohnung aus dem Bestand aus Altersgründen. Wohnung ist derzeitig vermietet wird aber...',
-    address: '70376 Bad-Cannstatt'
-  },
-  {
-    id: 131223147,
-    price: '225.000 €',
-    size: '52 m²',
-    title: 'Gepflegte 2-Zimmer-Terrassenwohnung mit Balkon und Einbauküche in Reichenbach',
-    link: 'https://www.immobilienscout24.de/expose/131223147',
-    address: 'Weinbergstr 76, Reichenbach an der Fils, Esslingen (Kreis)'
-  },
-  {
-    id: 1957023961,
-    price: '185.000 €',
-    title: 'Schmuckstück in bester City-Lage: 1 ZKB (ca. 29 m²/verm.) mit Balkon & Stellplatz in S-Feuerbach',
-    link: 'https://www.ebay-kleinanzeigen.de/s-anzeige/schmuckstueck-in-bester-city-lage-1-zkb-ca-29-m-verm-mit-balkon-stellplatz-in-s-feuerbach/1957023961-196-9305',
-    description: '# Objektbeschreibung Sie sind auf der Suche nach einem modernen und zentral gelegenen...',
-    address: '70469 Feuerbach',
-    size: '--- m²'
-  },
-  {
-    id: 1984173726,
-    price: '150.000 €',
-    title: '3 Zimmer Wohnung am Meer zu verkaufen (Kroatien/Zadar)',
-    link: 'https://www.ebay-kleinanzeigen.de/s-anzeige/3-zimmer-wohnung-am-meer-zu-verkaufen-kroatien-zadar-/1984173726-275-9283',
-    description: 'Wir verkaufen eine Wohnung die auch als Hauptwohnsitz für eine Auswanderer Familie geeignet ist....',
-    address: '70173 Stuttgart-Mitte',
-    size: '--- m²'
-  },
-  {
-    id: 131224782,
-    price: '185.000 €',
-    size: '64,6 m²',
-    title: 'Schicke gepflegte Dachgeschoßwohnung in Knittlingen',
-    link: 'https://www.immobilienscout24.de/expose/131224782',
-    address: 'Knittlingen, Enzkreis'
-  },
-  {
-    id: 131228449,
-    price: '209.000 €',
-    size: '66 m²',
-    title: 'Bereits vermietet: helle und gut geschnittene - 2,5-Zi. Whg. inkl. EBK in Leonberg zu verkaufen!',
-    link: 'https://www.immobilienscout24.de/expose/131228449',
-    address: 'Leonberg, Böblingen (Kreis)'
-  },
-  {
-    id: 131228360,
+    id: 131239839,
     price: '250.000 €',
-    size: '67,51 m²',
-    title: 'Solide vermietete 3-Zimmerwohnung mit lebenslangem Wohnrecht zur KAPITALANLAGE',
-    link: 'https://www.immobilienscout24.de/expose/131228360',
-    address: 'Lenbachstraße 17, Nürtingen, Esslingen (Kreis)'
+    size: '61,17 m²',
+    title: 'Eigentumswohnung im Betreutem Wohnen - ab 60 Jahren -',
+    link: 'https://www.immobilienscout24.de/expose/131239839',
+    address: 'Theodor-Heuss-Straße 11, Brackenheim, Heilbronn (Kreis)'
   },
   {
-    id: 131228357,
-    price: '206.700 €',
-    size: '49,21 m²',
-    title: 'KAPITALANLAGE ! Vermietete Gartengeschoßwohnung',
-    link: 'https://www.immobilienscout24.de/expose/131228357',
-    address: 'Schießrainweg 8, Weil der Stadt, Böblingen (Kreis)'
+    id: 130473742,
+    price: '194.000 €',
+    size: '52 m²',
+    title: '2 Zi. Wohnung in Berglen',
+    link: 'https://www.immobilienscout24.de/expose/130473742',
+    address: 'Berglen, Rems-Murr-Kreis'
   },
   {
-    id: 131228355,
-    price: '219.000 €',
-    size: '63,61 m²',
-    title: 'Renovierungsbedürftige 3-Zimmerdachgeschoßwohnung in großer Wohnanlage',
-    link: 'https://www.immobilienscout24.de/expose/131228355',
-    address: 'Schießrainweg 18, Weil der Stadt, Böblingen (Kreis)'
+    id: 131238556,
+    price: '250.000 €',
+    size: '37 m²',
+    title: 'Gut geschnittenes Appartement mit tollem Blick ins Grüne!',
+    link: 'https://www.immobilienscout24.de/expose/131238556',
+    address: 'Ostfildern, Esslingen (Kreis)'
   },
   {
-    id: '23d9t5y',
-    price: '140.000 €',
-    size: '32 m²',
-    title: 'Ideal für Kapitalanleger - Betongold ist besser als Bargeld!',
-    link: 'https://www.immowelt.de/expose/23d9t5y',
-    address: 'Stuttgart Stuttgart-Süd (Süd)'
+    id: 131238454,
+    price: '249.000 €',
+    size: '76,27 m²',
+    title: 'Ruhig gelegene und lichtdurchflutete 3-Zimmer Wohnung in Güglingen',
+    link: 'https://www.immobilienscout24.de/expose/131238454',
+    address: 'Güglingen, Heilbronn (Kreis)'
   },
   {
-    id: 131203510,
-    price: '215.000 €',
-    size: '47,7 m²',
-    title: 'Helle 1,5-Zimmer-Studiowohnung in der Wohnstadt im Stuttgarter Asemwald',
-    link: 'https://www.immobilienscout24.de/expose/131203510',
-    address: 'Im Asemwald 30, Asemwald, Stuttgart'
+    id: 131237360,
+    price: '159.000 €',
+    size: '38 m²',
+    title: 'Gomaringen, helle, 1,5-Zimmer-Wohnung. 38,00 qm. von privat, TG Stellplatz, Balkon, EBK, Schwimmbad.',
+    link: 'https://www.immobilienscout24.de/expose/131237360',
+    address: 'Madachstraße 6, Gomaringen, Tübingen (Kreis)'
   },
   {
-    id: 1985800133,
-    price: '55.000 € VB',
-    title: 'Verkaufe Garage in Stuttgart Freiberg',
-    link: 'https://www.ebay-kleinanzeigen.de/s-anzeige/verkaufe-garage-in-stuttgart-freiberg/1985800133-197-9334',
-    description: 'Einzel Garage Balthasar-Neumann-Str. 40, 70437 Stuttgart Aktuell nicht Vermietet. Sie profitieren...',
-    address: '70378 Mühlhausen',
-    size: '--- m²'
+    id: 131237757,
+    price: '250.000 €',
+    size: '56 m²',
+    title: 'Hell, modern und zentral: 2-Zimmer-Wohnung im Herzen von Lichtenstein',
+    link: 'https://www.immobilienscout24.de/expose/131237757',
+    address: 'Lichtenstein, Reutlingen (Kreis)'
   },
   {
-    id: 1985789265,
-    price: '150.000 €',
-    title: 'Milaneo Restaurant stuttgart',
-    link: 'https://www.ebay-kleinanzeigen.de/s-anzeige/milaneo-restaurant-stuttgart/1985789265-277-9283',
-    description: 'Übergabe Restaurantfläche im Einkaufszentrum in Stuttgart Mitte im Milaneo. Komplett...',
-    address: '70173 Stuttgart-Mitte',
-    size: '--- m²'
+    id: 131237714,
+    price: '250.000 €',
+    size: '90 m²',
+    title: 'Schöne 4-Zimmer-Wohnung mit Balkon und stellplatz',
+    link: 'https://www.immobilienscout24.de/expose/131237714',
+    address: 'Schützenstr 20, Bad Urach, Reutlingen (Kreis)'
   },
   {
-    id: 1985847592,
-    price: '176.000 € VB',
-    title: 'KUSADASI / MIT PRIVATEM GARTEN 5 ZIMMER VILLA ZUVERKAUFEN',
-    link: 'https://www.ebay-kleinanzeigen.de/s-anzeige/kusadasi-mit-privatem-garten-5-zimmer-villa-zuverkaufen/1985847592-275-9600',
-    description: 'IN TÜRKEI / KUSADASI MIT WUNDERSCHÖNE PRIVATEM GARTEN 5 ZIMMER...',
-    address: '70174 Stuttgart-Nord',
-    size: '--- m²'
+    id: 131172612,
+    price: '200.000 €',
+    size: '52,62 m²',
+    title: 'Aidlingen: Zentrumsnahe 2 Zi.-ETW mit Südbalkon',
+    link: 'https://www.immobilienscout24.de/expose/131172612',
+    address: 'Aidlingen, Böblingen (Kreis)'
   },
   {
-    id: 1985850554,
-    price: '157.000 € VB',
-    title: 'KUSADASI / MEER 600 m SPEZIELLE DESING 5 ZIMMER VILLA ZUVERKAUFEN',
-    link: 'https://www.ebay-kleinanzeigen.de/s-anzeige/kusadasi-meer-600-m-spezielle-desing-5-zimmer-villa-zuverkaufen/1985850554-275-9600',
-    description: 'IN TÜRKEI / KUSADASI SPEZIELLE ENTWORFENE DESING 5 ZIMMER VILLA MEER 600 m ZU...',
-    address: '70174 Stuttgart-Nord',
-    size: '--- m²'
+    id: 129488951,
+    price: '235.000 €',
+    size: '73 m²',
+    title: 'Schön wohnen in ruhiger Lage',
+    link: 'https://www.immobilienscout24.de/expose/129488951',
+    address: 'Weinsberg, Heilbronn (Kreis)'
+  },
+  {
+    id: 131236628,
+    price: '166.000 €',
+    size: '38 m²',
+    title: 'Frisch renovierte 2-Zimmer-Wohnung',
+    link: 'https://www.immobilienscout24.de/expose/131236628',
+    address: 'Weststadt, Pforzheim'
+  },
+  {
+    id: 131236322,
+    price: '229.000 €',
+    size: '85 m²',
+    title: 'Wohnen im schönen Knittlingen! Gut geschnittene 4-Zimmer-Wohnung mit Garagenstellplatz',
+    link: 'https://www.immobilienscout24.de/expose/131236322',
+    address: 'Knittlingen, Enzkreis'
   }
 ]
